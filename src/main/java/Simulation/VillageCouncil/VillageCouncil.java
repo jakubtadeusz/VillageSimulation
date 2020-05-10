@@ -1,14 +1,14 @@
 package Simulation.VillageCouncil;
 
 
-import Simulation.Event.ChoosedEvent;
+import Simulation.Event.SelectedEvent;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class VillageCouncil {
     private ArrayList<CouncilMember> councilMemberArrayList = new ArrayList<>();
-    private List<ChoosedEvent> possibleChoices;
+    private List<SelectedEvent> possibleChoices;
 
     private ArrayList<CouncilMember> getCouncilMemberArrayList() {
         return this.councilMemberArrayList;
@@ -31,8 +31,8 @@ public class VillageCouncil {
         addNewCouncilMembers(amount);
     }
 
-    public List<ChoosedEvent> getChoices(){
-        ArrayList<ChoosedEvent> eventList = new ArrayList<>();
+    public List<SelectedEvent> getChoices(){
+        ArrayList<SelectedEvent> eventList = new ArrayList<>();
         return eventList;
     }
 }

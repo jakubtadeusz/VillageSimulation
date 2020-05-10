@@ -9,9 +9,10 @@ public class Simulation {
 
     private Village village;
     private VillageCouncil villageCouncil;
-    private Integer time;
+    private int time;
 
     public void start() {
+        System.out.println("xxxxxxxxx");
     }
 
     public void nextDay() {
