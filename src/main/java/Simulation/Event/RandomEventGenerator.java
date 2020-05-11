@@ -9,6 +9,10 @@ public class RandomEventGenerator {
     private List<RandomEvent> possibleEvents;
     private Random random;
 
+    public RandomEventGenerator(List<RandomEvent> possibleEvents) {
+        this.possibleEvents = possibleEvents;
+    }
+
     public Event getRandomEvent() {
         return possibleEvents.get(random.nextInt(possibleEvents.size()));
     }

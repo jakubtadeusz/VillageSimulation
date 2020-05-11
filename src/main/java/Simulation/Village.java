@@ -5,6 +5,11 @@ public class Village {
     private int wealth;
     private int combatCapability;
 
+    public Village(int population, int wealth, int combatCapability) {
+        this.population = population;
+        this.wealth = wealth;
+        this.combatCapability = combatCapability;
+    }
 
     public int getPopulation() {
         return population;
@@ -32,5 +37,20 @@ public class Village {
 
     public Boolean isOK() {
         return true;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == this) {
+            return true;
+        }
+        if (obj == null || obj.getClass() != this.getClass()) {
+            return false;
+        }
+
+        Village village = (Village) obj;
+        return village.getPopulation() == this.getPopulation()
+                && (village.getWealth() == this.getWealth()
+                && (village.getCombatCapability() == this.getCombatCapability()));
     }
 }
