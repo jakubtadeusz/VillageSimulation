@@ -15,19 +15,13 @@ public class Event {
     }
 
     public void executeOnVillage(Village village) {
-        village.setPopulation(village.getPopulation() - this.populationChange);
-        village.setWealth(village.getWealth() - this.wealthChange);
-        village.setCombatCapability(village.getCombatCapability() - this.combatCapabilityChange);
+
+
     }
 
     public void setChanges(int populationChange, int wealthChange, int combatCapabilityChange) {
         this.populationChange = populationChange;
         this.wealthChange = wealthChange;
         this.combatCapabilityChange = combatCapabilityChange;
-    }
-
-    @Override
-    public String toString() {
-        return eventName;
     }
 }
