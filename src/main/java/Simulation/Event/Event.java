@@ -25,4 +25,9 @@ public class Event {
         this.wealthChange = wealthChange;
         this.combatCapabilityChange = combatCapabilityChange;
     }
+
+    @Override
+    public String toString() {
+        return eventName;
+    }
 }
