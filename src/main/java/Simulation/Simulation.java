@@ -1,12 +1,10 @@
 package Simulation;
 
 import Simulation.Event.Event;
-import Simulation.Event.RandomEventGenerator;
 import Simulation.VillageCouncil.VillageCouncil;
 
-import java.util.Scanner;
 import java.util.List;
-import java.io.*;
+import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 
 public class Simulation  {
@@ -37,8 +35,8 @@ public class Simulation  {
     time++;
     System.out.println("Dzien:" + time);
     if(village.isOK()){
-        List<Event> events = RandomEventGenerator.getEvents(time/100);
-        executeEvents(events);
+//        List<Event> events = RandomEventGenerator.getEvents(time/100, 10);
+      //  executeEvents(events);
         System.out.println("execute events");
         nextDay();
     }else{

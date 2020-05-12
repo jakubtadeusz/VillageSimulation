@@ -1,7 +1,5 @@
 package Simulation.Event;
 
-import Simulation.Village;
-
 import java.util.Random;
 
 public class RandomEvent extends Event{
@@ -9,7 +7,8 @@ public class RandomEvent extends Event{
 
     private void setRandomChanges(int difficulty){
         int rand = random.nextInt(100);
-        setChanges((rand>difficulty?1:-1)*difficulty*10, (rand>difficulty?1:-1)*difficulty*100, 0);
+        int change = random.nextInt(difficulty*10);
+        setChanges(((rand>difficulty)?-1:1)*change, ((rand>difficulty)?-1:1)*change*10, 0);
     }
 
     public RandomEvent(String eventName, int difficulty) {
