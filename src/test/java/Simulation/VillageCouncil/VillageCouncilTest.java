@@ -19,7 +19,7 @@ class VillageCouncilTest {
     @Test
     void isSelectedEventListSizeCorrect(){
         VillageCouncil villageCouncil = new VillageCouncil(100);
-        ArrayList<Event> choices = villageCouncil.getChoices(20, 30);
+        ArrayList<Event> choices = villageCouncil.getChoices(20, 80);
         assertEquals(20, choices.size());
     }
 }

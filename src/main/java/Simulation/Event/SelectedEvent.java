@@ -12,6 +12,7 @@ public class SelectedEvent extends Event {
         super(name, difficulty);
         this.difficulty = difficulty;
         this.choice = choice;
+        this.setSelectedChanges();
     }
 
     public void setSelectedChanges() {
