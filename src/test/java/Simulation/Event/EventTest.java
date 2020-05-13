@@ -18,7 +18,7 @@ class EventTest {
 
     @Test
     void areChangesExecutedOnVillage() {
-        event.setChanges(100, 1000, 100);
+        event.setChanges(-100, -1000, -100);
         event.executeOnVillage(village);
         assertEquals(900, village.getPopulation(), "population");
         assertEquals(9000, village.getWealth(), "wealth");

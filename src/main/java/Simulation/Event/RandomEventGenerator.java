@@ -15,8 +15,11 @@ public class RandomEventGenerator {
     }
 
     public Event getRandomEvent(int difficulty) {
-        RandomEvent randomEvent = new RandomEvent(possibleEventNames.get(random.nextInt(possibleEventNames.size())), difficulty);
-        return randomEvent;
+        if(random.nextInt(100) > 75){
+            return new BattleEvent(difficulty);
+
+        }
+        return new RandomEvent(possibleEventNames.get(random.nextInt(possibleEventNames.size())), difficulty);
     }
 
     public List<Event> getEvents(int amount, int difficulty) {

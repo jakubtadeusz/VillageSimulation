@@ -4,12 +4,12 @@ import Simulation.Village;
 
 import java.util.Random;
 
-public class Battle{
+public class BattleEvent extends Event{
     private final int difficulty;
-    private Village changes;
-    private Random random;
+    private final Random random;
 
-    public Battle(int difficulty) {
+    public BattleEvent(int difficulty) {
+        super("Battle", difficulty);
         random = new Random();
         this.difficulty = difficulty;
     }
@@ -20,16 +20,16 @@ public class Battle{
 
     public void runBattle(Village village){
         int opponent = getNewOpponent(difficulty);
-        this.changes = new Village(0, 0, 0);
         if(opponent <  village.getCombatCapability()){
-            changes.setWealth(difficulty*random.nextInt(100) );
+            this.setChanges(0, difficulty*random.nextInt(100) , 0);
         } else{
-            changes.setCombatCapability((-opponent*random.nextInt(100)/100));
-            changes.setWealth(- difficulty*random.nextInt(100));
+            this.setChanges(0, - difficulty*random.nextInt(100) , (-opponent*random.nextInt(100)/100));
         }
     }
 
-    public Village getBattleResult(){
-        return this.changes;
+    @Override
+    public void executeOnVillage(Village village) {
+        this.runBattle(village);
+        super.executeOnVillage(village);
     }
 }

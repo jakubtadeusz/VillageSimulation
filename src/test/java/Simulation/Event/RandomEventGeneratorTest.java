@@ -23,6 +23,6 @@ class RandomEventGeneratorTest {
 
     @Test
     void isEventReturnedRandom() {
-        assertTrue(randomEventGenerator.getRandomEvent(100) instanceof  RandomEvent);
+        assertTrue(randomEventGenerator.getRandomEvent(100) instanceof  Event);
     }
 }
