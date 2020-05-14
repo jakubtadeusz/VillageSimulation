@@ -6,6 +6,7 @@ import Simulation.Event.Event;
 import Simulation.Event.SelectedEvent;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class VillageCouncil {
@@ -32,8 +33,8 @@ public class VillageCouncil {
         addNewCouncilMembers(amount);
     }
 
-    public ArrayList<Event> getChoices(int amount, int difficulty) {
-        ArrayList<Event> eventList = new ArrayList<>();
+    public List<Event> getChoices(int amount, int difficulty) {
+        List<Event> eventList = new ArrayList<>();
         MemberChoice choice;
         String eventName;
         for(int i = 0; i < amount; i++)

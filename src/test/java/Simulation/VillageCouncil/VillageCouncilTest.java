@@ -3,7 +3,7 @@ package Simulation.VillageCouncil;
 import Simulation.Event.Event;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -19,7 +19,7 @@ class VillageCouncilTest {
     @Test
     void isSelectedEventListSizeCorrect(){
         VillageCouncil villageCouncil = new VillageCouncil(100);
-        ArrayList<Event> choices = villageCouncil.getChoices(20, 80);
+        List<Event> choices = villageCouncil.getChoices(20, 80);
         assertEquals(20, choices.size());
     }
 }

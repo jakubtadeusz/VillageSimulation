@@ -36,7 +36,7 @@ public class Village {
     }
 
     public Boolean isOK() {
-        return true;
+        return getPopulation()>0 && getCombatCapability()>0 && getWealth() > 0;
     }
 
     @Override

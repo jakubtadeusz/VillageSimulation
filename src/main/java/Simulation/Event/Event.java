@@ -28,6 +28,6 @@ public class Event {
 
     @Override
     public String toString() {
-        return eventName;
+        return eventName +"        zmiana populacji:" + populationChange + " zmiana bogactwa: " + wealthChange + " zmiana umiejetnosci walki: " + combatCapabilityChange;
     }
 }
