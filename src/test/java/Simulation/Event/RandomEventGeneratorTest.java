@@ -4,8 +4,9 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
+import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class RandomEventGeneratorTest {
     ArrayList<String> testNames;
@@ -22,7 +23,9 @@ class RandomEventGeneratorTest {
     }
 
     @Test
-    void isEventReturnedRandom() {
-        assertTrue(randomEventGenerator.getRandomEvent(100) instanceof  Event);
+    void isRandomEventListCorrectSize() {
+        List<Event> randomEventGeneratorEvents= randomEventGenerator.getEvents(20, 50);
+        assertEquals(20, randomEventGeneratorEvents.size());
+
     }
 }

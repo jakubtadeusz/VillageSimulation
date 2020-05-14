@@ -1,10 +1,12 @@
 package Simulation.VillageCouncil;
 
 
+import Simulation.Event.BattleEvent;
 import Simulation.Event.Event;
 import Simulation.Event.SelectedEvent;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 public class VillageCouncil {
     private ArrayList<CouncilMember> councilMemberArrayList = new ArrayList<>();
@@ -38,7 +40,11 @@ public class VillageCouncil {
         {
             choice = voteForChoice();
             eventName = choice==MemberChoice.POPULATION?"Population":choice==MemberChoice.COMBATCAPABILITY?"Combat capability":"Wealth";
-            eventList.add(new SelectedEvent(eventName, difficulty, choice));
+            Random random = new Random();
+            if(random.nextInt(100) > 75)
+            {
+                eventList.add(new BattleEvent(difficulty));
+            } else eventList.add(new SelectedEvent(eventName, difficulty, choice));
         }
         return eventList;
     }
