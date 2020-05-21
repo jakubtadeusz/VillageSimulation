@@ -1,4 +1,8 @@
 package Simulation;
+/**
+ * This is village class, responsible for storing village resources,
+ * and checking its status
+ */
 
 public class Village {
 
