@@ -1,42 +1,42 @@
 package Simulation;
 
 public class Village {
-    private int population;
-    private int wealth;
-    private int combatCapability;
+    private long population;
+    private long wealth;
+    private long combatCapability;
 
-    public Village(int population, int wealth, int combatCapability) {
+    public Village(long population, long wealth, long combatCapability) {
         this.population = population;
         this.wealth = wealth;
         this.combatCapability = combatCapability;
     }
 
-    public int getPopulation() {
+    public long getPopulation() {
         return population;
     }
 
-    public void setPopulation(int population) {
+    public void setPopulation(long population) {
         this.population = population;
     }
 
-    public int getWealth() {
+    public long getWealth() {
         return wealth;
     }
 
-    public void setWealth(int wealth) {
+    public void setWealth(long wealth) {
         this.wealth = wealth;
     }
 
-    public int getCombatCapability() {
+    public long getCombatCapability() {
         return combatCapability;
     }
 
-    public void setCombatCapability(int combatCapability) {
+    public void setCombatCapability(long combatCapability) {
         this.combatCapability = combatCapability;
     }
 
     public Boolean isOK() {
-        return getPopulation()>0 && getCombatCapability()>0 && getWealth() > 0;
+        return getPopulation()>0 && getWealth() > 0;
     }
 
     @Override

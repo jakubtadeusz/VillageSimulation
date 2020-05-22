@@ -10,7 +10,8 @@ import java.util.List;
 import java.util.Random;
 
 public class VillageCouncil {
-    private ArrayList<CouncilMember> councilMemberArrayList = new ArrayList<>();
+    private final int MAXCOUNCILSIZE = 300;
+    private final ArrayList<CouncilMember> councilMemberArrayList = new ArrayList<>();
 
     private ArrayList<CouncilMember> getCouncilMemberArrayList() {
         return this.councilMemberArrayList;
@@ -23,14 +24,19 @@ public class VillageCouncil {
         }
     }
 
-    private void addNewCouncilMembers(int amount) {
+    private void addNewCouncilMembers(long amount) {
         for (int i = 0; i < amount; i++) {
             councilMemberArrayList.add(new CouncilMember());
         }
     }
 
-    public VillageCouncil(int amount) {
-        addNewCouncilMembers(amount);
+    public VillageCouncil(long amount) {
+        long memberAmount = this.calculateCouncilSize(amount);
+        addNewCouncilMembers(memberAmount);
+    }
+
+    private long calculateCouncilSize(long amount) {
+        return Math.min((amount / 100 + 1), MAXCOUNCILSIZE);
     }
 
     public List<Event> getChoices(int amount, int difficulty) {
@@ -78,5 +84,13 @@ public class VillageCouncil {
         } else if (combat > wealth) {
             return MemberChoice.COMBATCAPABILITY;
         } else return MemberChoice.WEALTH;
+    }
+
+    public int councilSize() {
+        return this.getCouncilMemberArrayList().size();
+    }
+
+    public int getMaxCouncilSize() {
+        return MAXCOUNCILSIZE;
     }
 }

@@ -6,12 +6,11 @@ import Simulation.Output.IInput;
 import Simulation.Output.IOutput;
 import Simulation.VillageCouncil.VillageCouncil;
 
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class Simulation {
 
+    private final int MAXTIME = 300;
     public Village village;
     public VillageCouncil villageCouncil;
     RandomEventGenerator randomEventGenerator;
@@ -19,78 +18,65 @@ public class Simulation {
     IInput input;
     IOutput output;
 
-    public Simulation() {
-        input = new IInput() {
+    /**
+     * @param input input object
+     * @param output output object
+     */
+    public Simulation(IInput input, IOutput output) {
 
-            Scanner scan = new Scanner(System.in);
-
-            @Override
-            public int loadPopulation() {
-                return scan.nextInt();
-            }
-
-            @Override
-            public int loadWealth() {
-                return scan.nextInt();
-            }
-
-            @Override
-            public int loadCombatCapability() {
-                return scan.nextInt();
-            }
-
-            @Override
-            public List<String> getRandomEventNames() {
-                ArrayList<String> names = new ArrayList<>();
-                names.add("Pogoda");
-                names.add("Zbiory");
-                names.add("Nauka");
-                return names;
-            }
-        };
-
-        output = new IOutput() {
-            @Override
-            public void write(String string) {
-                System.out.println(string);
-            }
-        };
-
+        this.input = input;
+        this.output = output;
         randomEventGenerator = new RandomEventGenerator(input.getRandomEventNames());
+
     }
 
+    /**
+     * use to start simulation
+     */
     public void start() {
         output.write("Symulacja sie zaczyna");
-        int pop = input.loadPopulation();
-        int wel = input.loadWealth();
-        int com = input.loadCombatCapability();
+        long pop = input.loadPopulation();
+        long wel = input.loadWealth();
+        long com = input.loadCombatCapability();
         village = new Village(pop, wel, com);
-        villageCouncil = new VillageCouncil(pop/100 + 1);
+        villageCouncil = new VillageCouncil((int) (pop));
         nextDay();
     }
 
+    /**
+     * start next day in simulation
+     */
     public void nextDay() {
-        /*try {
-            TimeUnit.SECONDS.sleep(2);
-        } catch (InterruptedException ie) {
-            Thread.currentThread().interrupt();
-        }*/
         time++;
         output.write("Dzien: " + time);
-        if (village.isOK()) {
+        if (village.isOK() && time <= MAXTIME) {
             List<Event> events = randomEventGenerator.getEvents(time / 10 + 1, getDifficulty());
-            events.addAll(villageCouncil.getChoices(time/10 + 1, getDifficulty()));
+            events.addAll(villageCouncil.getChoices(time / 10 + 1, getDifficulty()));
             executeEvents(events);
+            output.write(getDailySummary());
             nextDay();
         } else {
             stop();
         }
     }
 
+    /**
+     * @return String with daily summary
+     */
+    private String getDailySummary() {
+        return "Stan wioski na dzien " + this.time + ":\n   Populacja: " + village.getPopulation() + "   Bogactwo: " + village.getWealth() + "   Zdolnosc bojowa: " + village.getCombatCapability();
+    }
+
+    /**
+     * stop simulation
+     */
     private void stop() {
         output.write("Symulacja zakonczona.");
     }
 
+    /**
+     * @param eventList execute eventList on Village
+     */
     private void executeEvents(List<Event> eventList) {
         for (Event event : eventList) {
             event.executeOnVillage(village);
@@ -98,6 +84,9 @@ public class Simulation {
         }
     }
 
+    /**
+     * @return difficultu
+     */
     private int getDifficulty() {
         return this.time;
     }

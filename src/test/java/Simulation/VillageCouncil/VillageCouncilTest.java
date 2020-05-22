@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class VillageCouncilTest {
 
@@ -21,5 +22,12 @@ class VillageCouncilTest {
         VillageCouncil villageCouncil = new VillageCouncil(100);
         List<Event> choices = villageCouncil.getChoices(20, 80);
         assertEquals(20, choices.size());
+    }
+
+    @Test
+    void isCouncilSizeCorrect(){
+        long x = Long.MAX_VALUE;
+        VillageCouncil villageCouncil = new VillageCouncil(x);
+        assertTrue(villageCouncil.councilSize() <= villageCouncil.getMaxCouncilSize());
     }
 }

@@ -43,3 +43,8 @@ test {
 
 // Define the main class for the application
 mainClassName = 'Simulation.App'
+
+javadoc {
+    source = sourceSets.main.allJava
+    classpath = configurations.compile
+}

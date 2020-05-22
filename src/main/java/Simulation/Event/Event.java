@@ -3,11 +3,11 @@ package Simulation.Event;
 import Simulation.Village;
 
 public class Event {
-    private String eventName;
-    private int populationChange;
-    private int wealthChange;
-    private int combatCapabilityChange;
-    private int difficulty;
+    private final String eventName;
+    private long populationChange;
+    private long wealthChange;
+    private long combatCapabilityChange;
+    private final int difficulty;
 
     public Event(String eventName, int difficulty) {
         this.eventName = eventName;
@@ -20,7 +20,7 @@ public class Event {
         village.setCombatCapability(village.getCombatCapability() + this.combatCapabilityChange);
     }
 
-    public void setChanges(int populationChange, int wealthChange, int combatCapabilityChange) {
+    public void setChanges(long populationChange, long wealthChange, long combatCapabilityChange) {
         this.populationChange = populationChange;
         this.wealthChange = wealthChange;
         this.combatCapabilityChange = combatCapabilityChange;

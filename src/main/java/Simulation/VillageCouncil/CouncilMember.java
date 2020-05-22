@@ -6,7 +6,7 @@ public class CouncilMember {
     private int populationImportance;
     private int wealthImportance;
     private int combatCapabilityImportance;
-    private Random random;
+    private final Random random;
 
     public CouncilMember() {
         this.random = new Random();

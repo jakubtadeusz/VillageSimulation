@@ -5,6 +5,7 @@ import Simulation.Village;
 import java.util.Random;
 
 public class BattleEvent extends Event{
+    private static final int NEGATIVEPUNISHMENT = 10;
     private final int difficulty;
     private final Random random;
 
@@ -23,7 +24,12 @@ public class BattleEvent extends Event{
         if(opponent <  village.getCombatCapability()){
             this.setChanges(0, difficulty*random.nextInt(100) , 0);
         } else{
-            this.setChanges(0, - difficulty*random.nextInt(100) , (-opponent*random.nextInt(100)/100));
+            if(village.getCombatCapability() <= 0){
+                this.setChanges(0, - difficulty*random.nextInt(100*NEGATIVEPUNISHMENT) , (-opponent*random.nextInt(100*NEGATIVEPUNISHMENT)/100));
+            }else 
+            {
+                this.setChanges(0, - difficulty*random.nextInt(100) , (-opponent*random.nextInt(100)/100));
+            }
         }
     }
 
