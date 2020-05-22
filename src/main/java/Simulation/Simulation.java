@@ -13,8 +13,8 @@ public class Simulation {
     private final int MAXTIME = 300;
     public Village village;
     public VillageCouncil villageCouncil;
-    RandomEventGenerator randomEventGenerator;
     public int time = 0;
+    RandomEventGenerator randomEventGenerator;
     IInput input;
     IOutput output;
 
@@ -23,11 +23,9 @@ public class Simulation {
      * @param output output object
      */
     public Simulation(IInput input, IOutput output) {
-
         this.input = input;
         this.output = output;
         randomEventGenerator = new RandomEventGenerator(input.getRandomEventNames());
-
     }
 
     /**
