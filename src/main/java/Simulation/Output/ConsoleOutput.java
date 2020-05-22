@@ -5,4 +5,9 @@ public class ConsoleOutput implements  IOutput{
     public void write(String string) {
         System.out.println(string);
     }
+
+    @Override
+    public void close() {
+
+    }
 }

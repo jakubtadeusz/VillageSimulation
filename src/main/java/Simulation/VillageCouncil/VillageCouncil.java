@@ -43,13 +43,11 @@ public class VillageCouncil {
         List<Event> eventList = new ArrayList<>();
         MemberChoice choice;
         String eventName;
-        for(int i = 0; i < amount; i++)
-        {
+        for (int i = 0; i < amount; i++) {
             choice = voteForChoice();
-            eventName = choice==MemberChoice.POPULATION?"Population":choice==MemberChoice.COMBATCAPABILITY?"Combat capability":"Wealth";
+            eventName = choice == MemberChoice.POPULATION ? "Population" : choice == MemberChoice.COMBATCAPABILITY ? "Combat capability" : "Wealth";
             Random random = new Random();
-            if(random.nextInt(100) > 75)
-            {
+            if (random.nextInt(100) > 75) {
                 eventList.add(new BattleEvent(difficulty));
             } else eventList.add(new SelectedEvent(eventName, difficulty, choice));
         }

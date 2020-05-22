@@ -19,7 +19,7 @@ public class Simulation {
     IOutput output;
 
     /**
-     * @param input input object
+     * @param input  input object
      * @param output output object
      */
     public Simulation(IInput input, IOutput output) {
@@ -72,6 +72,7 @@ public class Simulation {
      */
     private void stop() {
         output.write("Symulacja zakonczona.");
+        output.close();
     }
 
     /**
