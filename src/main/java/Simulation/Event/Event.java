@@ -7,11 +7,9 @@ public class Event {
     private long populationChange;
     private long wealthChange;
     private long combatCapabilityChange;
-    private final int difficulty;
 
-    public Event(String eventName, int difficulty) {
+    public Event(String eventName) {
         this.eventName = eventName;
-        this.difficulty = difficulty;
     }
 
     public void executeOnVillage(Village village) {
@@ -28,6 +26,6 @@ public class Event {
 
     @Override
     public String toString() {
-        return eventName +"        zmiana populacji:" + populationChange + " zmiana bogactwa: " + wealthChange + " zmiana umiejetnosci walki: " + combatCapabilityChange;
+        return eventName + "        zmiana populacji:" + populationChange + " zmiana bogactwa: " + wealthChange + " zmiana umiejetnosci walki: " + combatCapabilityChange;
     }
 }

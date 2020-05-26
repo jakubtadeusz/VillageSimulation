@@ -1,1784 +1,436 @@
 
 Symulacja sie zaczyna
 Dzien: 1
-Nauka        zmiana populacji:-9 zmiana bogactwa: -90 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:701 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-6 zmiana bogactwa: -60 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: 94 zmiana umiejetnosci walki: 0
 Stan wioski na dzien 1:
-   Populacja: 1693   Bogactwo: 911   Zdolnosc bojowa: 1001
+   Populacja: 99994   Bogactwo: 1000034   Zdolnosc bojowa: 100
 Dzien: 2
-Battle        zmiana populacji:0 zmiana bogactwa: 20 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:951 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-7 zmiana bogactwa: -70 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:111 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
 Stan wioski na dzien 2:
-   Populacja: 2644   Bogactwo: 931   Zdolnosc bojowa: 1001
+   Populacja: 100098   Bogactwo: 999964   Zdolnosc bojowa: 100
 Dzien: 3
-Nauka        zmiana populacji:-23 zmiana bogactwa: -230 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:61 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 3:
-   Populacja: 2682   Bogactwo: 701   Zdolnosc bojowa: 1001
-Dzien: 4
-Zbiory        zmiana populacji:-6 zmiana bogactwa: -60 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 72 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 4:
-   Populacja: 2676   Bogactwo: 713   Zdolnosc bojowa: 1001
-Dzien: 5
-Battle        zmiana populacji:0 zmiana bogactwa: 45 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 6510 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 5:
-   Populacja: 2676   Bogactwo: 7268   Zdolnosc bojowa: 1001
-Dzien: 6
-Battle        zmiana populacji:0 zmiana bogactwa: 24 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7410 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 6:
-   Populacja: 2676   Bogactwo: 14702   Zdolnosc bojowa: 1001
-Dzien: 7
-        zmiana populacji:-42 zmiana bogactwa: -420 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:331 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 7:
-   Populacja: 2965   Bogactwo: 14282   Zdolnosc bojowa: 1001
-Dzien: 8
-        zmiana populacji:-34 zmiana bogactwa: -340 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 321
-Stan wioski na dzien 8:
-   Populacja: 2931   Bogactwo: 13942   Zdolnosc bojowa: 1322
-Dzien: 9
-        zmiana populacji:8 zmiana bogactwa: 80 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 63 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 9:
-   Populacja: 2939   Bogactwo: 14085   Zdolnosc bojowa: 1322
-Dzien: 10
-Battle        zmiana populacji:0 zmiana bogactwa: 60 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 440 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 520 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:811 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 10:
-   Populacja: 3750   Bogactwo: 15105   Zdolnosc bojowa: 1322
-Dzien: 11
-Nauka        zmiana populacji:-22 zmiana bogactwa: -220 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-57 zmiana bogactwa: -570 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:151 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-29 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 11:
-   Populacja: 3793   Bogactwo: 14315   Zdolnosc bojowa: 1322
-Dzien: 12
-Zbiory        zmiana populacji:98 zmiana bogactwa: 980 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-52 zmiana bogactwa: -520 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 591
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 831
-Stan wioski na dzien 12:
-   Populacja: 3839   Bogactwo: 14775   Zdolnosc bojowa: 2744
-Dzien: 13
-        zmiana populacji:-59 zmiana bogactwa: -590 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-36 zmiana bogactwa: -360 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:651 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 52 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 13:
-   Populacja: 4395   Bogactwo: 13877   Zdolnosc bojowa: 2744
-Dzien: 14
-Battle        zmiana populacji:0 zmiana bogactwa: 518 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-100 zmiana bogactwa: -1000 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:221 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-49 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 14:
-   Populacja: 4467   Bogactwo: 13395   Zdolnosc bojowa: 2744
-Dzien: 15
-Zbiory        zmiana populacji:-3 zmiana bogactwa: -30 zmiana umiejetnosci walki: 0
-        zmiana populacji:48 zmiana bogactwa: 480 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -490 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:911 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 15:
-   Populacja: 5423   Bogactwo: 13355   Zdolnosc bojowa: 2744
-Dzien: 16
-Zbiory        zmiana populacji:-77 zmiana bogactwa: -770 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1376 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 8610 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:301 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 16:
-   Populacja: 5647   Bogactwo: 22571   Zdolnosc bojowa: 2744
-Dzien: 17
-Zbiory        zmiana populacji:-18 zmiana bogactwa: -180 zmiana umiejetnosci walki: 0
-        zmiana populacji:-69 zmiana bogactwa: -690 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 8910 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9210 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 17:
-   Populacja: 5560   Bogactwo: 39821   Zdolnosc bojowa: 2744
-Dzien: 18
-Pogoda        zmiana populacji:-131 zmiana bogactwa: -1310 zmiana umiejetnosci walki: 0
-        zmiana populacji:-135 zmiana bogactwa: -1350 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 551
-Population        zmiana populacji:751 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 18:
-   Populacja: 6045   Bogactwo: 37161   Zdolnosc bojowa: 3295
-Dzien: 19
-Nauka        zmiana populacji:-66 zmiana bogactwa: -660 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-178 zmiana bogactwa: -1780 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:681 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 691
-Stan wioski na dzien 19:
-   Populacja: 6482   Bogactwo: 34721   Zdolnosc bojowa: 3986
-Dzien: 20
-Pogoda        zmiana populacji:25 zmiana bogactwa: 250 zmiana umiejetnosci walki: 0
-        zmiana populacji:60 zmiana bogactwa: 600 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-51 zmiana bogactwa: -510 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7510 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:621 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1960 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 20:
-   Populacja: 7137   Bogactwo: 44531   Zdolnosc bojowa: 3986
-Dzien: 21
-Zbiory        zmiana populacji:-127 zmiana bogactwa: -1270 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1176 zmiana umiejetnosci walki: 0
-        zmiana populacji:-10 zmiana bogactwa: -100 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 651 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:401 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:631 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 21:
-   Populacja: 8032   Bogactwo: 44988   Zdolnosc bojowa: 3986
-Dzien: 22
-Nauka        zmiana populacji:148 zmiana bogactwa: 1480 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2178 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:165 zmiana bogactwa: 1650 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:881 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 880 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7410 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 22:
-   Populacja: 9226   Bogactwo: 58586   Zdolnosc bojowa: 3986
-Dzien: 23
-Battle        zmiana populacji:0 zmiana bogactwa: 414 zmiana umiejetnosci walki: 0
-        zmiana populacji:134 zmiana bogactwa: 1340 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-220 zmiana bogactwa: -2200 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1127 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7010 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:311 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 23:
-   Populacja: 9451   Bogactwo: 66277   Zdolnosc bojowa: 3986
-Dzien: 24
-Battle        zmiana populacji:0 zmiana bogactwa: 912 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-109 zmiana bogactwa: -1090 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-113 zmiana bogactwa: -1130 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1464 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:781 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:881 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 24:
-   Populacja: 10891   Bogactwo: 66433   Zdolnosc bojowa: 3986
-Dzien: 25
-Battle        zmiana populacji:0 zmiana bogactwa: 1025 zmiana umiejetnosci walki: 0
-        zmiana populacji:-108 zmiana bogactwa: -1080 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -890 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 521
-Stan wioski na dzien 25:
-   Populacja: 11704   Bogactwo: 65488   Zdolnosc bojowa: 4507
-Dzien: 26
-Nauka        zmiana populacji:-169 zmiana bogactwa: -1690 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:200 zmiana bogactwa: 2000 zmiana umiejetnosci walki: 0
-        zmiana populacji:-230 zmiana bogactwa: -2300 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 4910 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:881 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:401 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 26:
-   Populacja: 12787   Bogactwo: 68408   Zdolnosc bojowa: 4507
-Dzien: 27
-Nauka        zmiana populacji:221 zmiana bogactwa: 2210 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1971 zmiana umiejetnosci walki: 0
-        zmiana populacji:-191 zmiana bogactwa: -1910 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2590 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 5610 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 702 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 27:
-   Populacja: 12817   Bogactwo: 74401   Zdolnosc bojowa: 4507
-Dzien: 28
-Battle        zmiana populacji:0 zmiana bogactwa: 980 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 448 zmiana umiejetnosci walki: 0
-        zmiana populacji:-139 zmiana bogactwa: -1390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:301 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:511 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2716 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 28:
-   Populacja: 13490   Bogactwo: 77155   Zdolnosc bojowa: 4507
-Dzien: 29
-Zbiory        zmiana populacji:-131 zmiana bogactwa: -1310 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-146 zmiana bogactwa: -1460 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-128 zmiana bogactwa: -1280 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1190 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:801 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 3910 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 29:
-   Populacja: 13886   Bogactwo: 75825   Zdolnosc bojowa: 4507
-Dzien: 30
-Zbiory        zmiana populacji:-98 zmiana bogactwa: -980 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-248 zmiana bogactwa: -2480 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2670 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:278 zmiana bogactwa: 2780 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2190 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -59
-Battle        zmiana populacji:0 zmiana bogactwa: 2400 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1290 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 30:
-   Populacja: 13818   Bogactwo: 76735   Zdolnosc bojowa: 4448
-Dzien: 31
-        zmiana populacji:50 zmiana bogactwa: 500 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-167 zmiana bogactwa: -1670 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:74 zmiana bogactwa: 740 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:178 zmiana bogactwa: 1780 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -890 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 6910 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:991 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7010 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 31:
-   Populacja: 14944   Bogactwo: 91115   Zdolnosc bojowa: 4448
-Dzien: 32
-Battle        zmiana populacji:0 zmiana bogactwa: 2848 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2240 zmiana umiejetnosci walki: 0
-        zmiana populacji:-181 zmiana bogactwa: -1810 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-264 zmiana bogactwa: -2640 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2528 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-9 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -239
-Wealth        zmiana populacji:0 zmiana bogactwa: 4310 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 32:
-   Populacja: 14490   Bogactwo: 98591   Zdolnosc bojowa: 4209
-Dzien: 33
-Zbiory        zmiana populacji:-274 zmiana bogactwa: -2740 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2673 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:245 zmiana bogactwa: 2450 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:186 zmiana bogactwa: 1860 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2490 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:501 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2343 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 33:
-   Populacja: 15148   Bogactwo: 100397   Zdolnosc bojowa: 4209
-Dzien: 34
-Nauka        zmiana populacji:-247 zmiana bogactwa: -2470 zmiana umiejetnosci walki: 0
-        zmiana populacji:-224 zmiana bogactwa: -2240 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:258 zmiana bogactwa: 2580 zmiana umiejetnosci walki: 0
-        zmiana populacji:-226 zmiana bogactwa: -2260 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1190 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 421
-Population        zmiana populacji:-99 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-289 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 34:
-   Populacja: 14321   Bogactwo: 94817   Zdolnosc bojowa: 4630
-Dzien: 35
-Nauka        zmiana populacji:251 zmiana bogactwa: 2510 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:74 zmiana bogactwa: 740 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:130 zmiana bogactwa: 1300 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-254 zmiana bogactwa: -2540 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -229
-Population        zmiana populacji:-339 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 491
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -49
-Stan wioski na dzien 35:
-   Populacja: 14183   Bogactwo: 96827   Zdolnosc bojowa: 4843
-Dzien: 36
-        zmiana populacji:-232 zmiana bogactwa: -2320 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 360 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-187 zmiana bogactwa: -1870 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:159 zmiana bogactwa: 1590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-199 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-289 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:711 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 36:
-   Populacja: 14146   Bogactwo: 91197   Zdolnosc bojowa: 4843
-Dzien: 37
-        zmiana populacji:339 zmiana bogactwa: 3390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 37 zmiana umiejetnosci walki: 0
-        zmiana populacji:-231 zmiana bogactwa: -2310 zmiana umiejetnosci walki: 0
-        zmiana populacji:-310 zmiana bogactwa: -3100 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:631 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 185 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 4710 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 444 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 37:
-   Populacja: 14575   Bogactwo: 94553   Zdolnosc bojowa: 4843
-Dzien: 38
-Pogoda        zmiana populacji:-347 zmiana bogactwa: -3470 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2052 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-239 zmiana bogactwa: -2390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3458 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:561 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2660 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2590 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 38:
-   Populacja: 14550   Bogactwo: 90983   Zdolnosc bojowa: 4843
-Dzien: 39
-        zmiana populacji:-191 zmiana bogactwa: -1910 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:73 zmiana bogactwa: 730 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1092 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-133 zmiana bogactwa: -1330 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:951 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 521
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -249
-Wealth        zmiana populacji:0 zmiana bogactwa: -3490 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 39:
-   Populacja: 15250   Bogactwo: 86075   Zdolnosc bojowa: 5115
-Dzien: 40
-Pogoda        zmiana populacji:209 zmiana bogactwa: 2090 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-200 zmiana bogactwa: -2000 zmiana umiejetnosci walki: 0
-        zmiana populacji:-121 zmiana bogactwa: -1210 zmiana umiejetnosci walki: 0
-        zmiana populacji:-325 zmiana bogactwa: -3250 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:143 zmiana bogactwa: 1430 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:761 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:641 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1990 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2960 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:441 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 40:
-   Populacja: 16799   Bogactwo: 84105   Zdolnosc bojowa: 5115
-Dzien: 41
-Zbiory        zmiana populacji:231 zmiana bogactwa: 2310 zmiana umiejetnosci walki: 0
-        zmiana populacji:-362 zmiana bogactwa: -3620 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-406 zmiana bogactwa: -4060 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2911 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-299 zmiana bogactwa: -2990 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-349 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 421
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 1
-Battle        zmiana populacji:0 zmiana bogactwa: 1886 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1230 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 41:
-   Populacja: 15614   Bogactwo: 81772   Zdolnosc bojowa: 5537
-Dzien: 42
-Zbiory        zmiana populacji:271 zmiana bogactwa: 2710 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-394 zmiana bogactwa: -3940 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2646 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1512 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:141 zmiana bogactwa: 1410 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 420 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3864 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9910 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 42:
-   Populacja: 17474   Bogactwo: 100304   Zdolnosc bojowa: 5537
-Dzien: 43
-Nauka        zmiana populacji:-297 zmiana bogactwa: -2970 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-225 zmiana bogactwa: -2250 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1892 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-117 zmiana bogactwa: -1170 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-345 zmiana bogactwa: -3450 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:651 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9710 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-199 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-179 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-369 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 43:
-   Populacja: 16394   Bogactwo: 102066   Zdolnosc bojowa: 5537
-Dzien: 44
-Pogoda        zmiana populacji:-223 zmiana bogactwa: -2230 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-87 zmiana bogactwa: -870 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:262 zmiana bogactwa: 2620 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:7 zmiana bogactwa: 70 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-217 zmiana bogactwa: -2170 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-59 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-259 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-249 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1144 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4224 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 44:
-   Populacja: 15569   Bogactwo: 104854   Zdolnosc bojowa: 5537
-Dzien: 45
-Pogoda        zmiana populacji:160 zmiana bogactwa: 1600 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3645 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-415 zmiana bogactwa: -4150 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-135 zmiana bogactwa: -1350 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1080 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7010 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:631 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:711 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 180 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 45:
-   Populacja: 17442   Bogactwo: 112869   Zdolnosc bojowa: 5537
-Dzien: 46
-        zmiana populacji:-418 zmiana bogactwa: -4180 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-63 zmiana bogactwa: -630 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:266 zmiana bogactwa: 2660 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-219 zmiana bogactwa: -2190 zmiana umiejetnosci walki: 0
-        zmiana populacji:410 zmiana bogactwa: 4100 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-289 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 4710 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -9
-Wealth        zmiana populacji:0 zmiana bogactwa: 7710 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:571 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 46:
-   Populacja: 17700   Bogactwo: 125049   Zdolnosc bojowa: 5528
-Dzien: 47
-Battle        zmiana populacji:0 zmiana bogactwa: 1222 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3760 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:14 zmiana bogactwa: 140 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:155 zmiana bogactwa: 1550 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-212 zmiana bogactwa: -2120 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 564 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:681 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:481 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-9 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 10 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 47:
-   Populacja: 18810   Bogactwo: 130175   Zdolnosc bojowa: 5528
-Dzien: 48
-Pogoda        zmiana populacji:-401 zmiana bogactwa: -4010 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-77 zmiana bogactwa: -770 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-167 zmiana bogactwa: -1670 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-20 zmiana bogactwa: -200 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-59 zmiana bogactwa: -590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 288 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -339
-Battle        zmiana populacji:0 zmiana bogactwa: 1488 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:691 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -219
-Stan wioski na dzien 48:
-   Populacja: 18777   Bogactwo: 124711   Zdolnosc bojowa: 4970
-Dzien: 49
-Zbiory        zmiana populacji:-391 zmiana bogactwa: -3910 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1813 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3038 zmiana umiejetnosci walki: 0
-        zmiana populacji:360 zmiana bogactwa: 3600 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:479 zmiana bogactwa: 4790 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-21 zmiana bogactwa: -210 zmiana umiejetnosci walki: 0
 Population        zmiana populacji:701 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 531
-Population        zmiana populacji:941 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7910 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7210 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 49:
-   Populacja: 20867   Bogactwo: 149162   Zdolnosc bojowa: 5501
-Dzien: 50
-Pogoda        zmiana populacji:59 zmiana bogactwa: 590 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-144 zmiana bogactwa: -1440 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-436 zmiana bogactwa: -4360 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2200 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4750 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:151 zmiana bogactwa: 1510 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-329 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 901
-Population        zmiana populacji:571 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-29 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 961
-Wealth        zmiana populacji:0 zmiana bogactwa: 9810 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 50:
-   Populacja: 20710   Bogactwo: 162222   Zdolnosc bojowa: 7363
-Dzien: 51
-Battle        zmiana populacji:0 zmiana bogactwa: 3774 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:238 zmiana bogactwa: 2380 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:148 zmiana bogactwa: 1480 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-410 zmiana bogactwa: -4100 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 663 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-294 zmiana bogactwa: -2940 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 102 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:601 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 102 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:641 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-259 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 51:
-   Populacja: 21375   Bogactwo: 162593   Zdolnosc bojowa: 7363
-Dzien: 52
-Battle        zmiana populacji:0 zmiana bogactwa: 4836 zmiana umiejetnosci walki: 0
-        zmiana populacji:-138 zmiana bogactwa: -1380 zmiana umiejetnosci walki: 0
-        zmiana populacji:288 zmiana bogactwa: 2880 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-297 zmiana bogactwa: -2970 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4992 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:161 zmiana bogactwa: 1610 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-49 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 520 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1508 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1716 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1872 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4472 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 52:
-   Populacja: 21340   Bogactwo: 182649   Zdolnosc bojowa: 7363
-Dzien: 53
-Pogoda        zmiana populacji:-53 zmiana bogactwa: -530 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-150 zmiana bogactwa: -1500 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:228 zmiana bogactwa: 2280 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:408 zmiana bogactwa: 4080 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 106 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1961 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:791 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-269 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -489
-Population        zmiana populacji:-119 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2790 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:601 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 53:
-   Populacja: 22777   Bogactwo: 186256   Zdolnosc bojowa: 6874
-Dzien: 54
-Battle        zmiana populacji:0 zmiana bogactwa: 2430 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-474 zmiana bogactwa: -4740 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-447 zmiana bogactwa: -4470 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-221 zmiana bogactwa: -2210 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-182 zmiana bogactwa: -1820 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:448 zmiana bogactwa: 4480 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9210 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 6210 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -149
-Population        zmiana populacji:901 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1490 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-79 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 54:
-   Populacja: 22723   Bogactwo: 193856   Zdolnosc bojowa: 6725
-Dzien: 55
-Zbiory        zmiana populacji:-424 zmiana bogactwa: -4240 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-324 zmiana bogactwa: -3240 zmiana umiejetnosci walki: 0
-        zmiana populacji:-215 zmiana bogactwa: -2150 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 770 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2750 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1210 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3890 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4840 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-369 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:771 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1870 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 55:
-   Populacja: 22162   Bogactwo: 189186   Zdolnosc bojowa: 6725
-Dzien: 56
-        zmiana populacji:251 zmiana bogactwa: 2510 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-92 zmiana bogactwa: -920 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-23 zmiana bogactwa: -230 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:288 zmiana bogactwa: 2880 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5096 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:412 zmiana bogactwa: 4120 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-89 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5590 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -329
-Battle        zmiana populacji:0 zmiana bogactwa: 3584 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 671
-Battle        zmiana populacji:0 zmiana bogactwa: 5320 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 56:
-   Populacja: 22909   Bogactwo: 205956   Zdolnosc bojowa: 7067
-Dzien: 57
-Nauka        zmiana populacji:465 zmiana bogactwa: 4650 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-155 zmiana bogactwa: -1550 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3078 zmiana umiejetnosci walki: 0
-        zmiana populacji:268 zmiana bogactwa: 2680 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:125 zmiana bogactwa: 1250 zmiana umiejetnosci walki: 0
-        zmiana populacji:83 zmiana bogactwa: 830 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 841
-Wealth        zmiana populacji:0 zmiana bogactwa: -5590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:961 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -199
-Battle        zmiana populacji:0 zmiana bogactwa: 4161 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5390 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 57:
-   Populacja: 24656   Bogactwo: 210075   Zdolnosc bojowa: 7709
-Dzien: 58
-        zmiana populacji:-429 zmiana bogactwa: -4290 zmiana umiejetnosci walki: 0
-        zmiana populacji:365 zmiana bogactwa: 3650 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2610 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2088 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3886 zmiana umiejetnosci walki: 0
-        zmiana populacji:-447 zmiana bogactwa: -4470 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 232 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 3:
+   Populacja: 100778   Bogactwo: 999754   Zdolnosc bojowa: 100
+Dzien: 4
+Nazwa2        zmiana populacji:-25 zmiana bogactwa: -250 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 2210 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 4:
+   Populacja: 100753   Bogactwo: 1001714   Zdolnosc bojowa: 100
+Dzien: 5
+Nazwa1        zmiana populacji:-10 zmiana bogactwa: -100 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 2310 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 5:
+   Populacja: 100743   Bogactwo: 1003924   Zdolnosc bojowa: 100
+Dzien: 6
+NazwaTest        zmiana populacji:-16 zmiana bogactwa: -160 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:301 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 6:
+   Populacja: 101028   Bogactwo: 1003764   Zdolnosc bojowa: 100
+Dzien: 7
+NazwaTest        zmiana populacji:-15 zmiana bogactwa: -150 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:531 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 7:
+   Populacja: 101544   Bogactwo: 1003614   Zdolnosc bojowa: 100
+Dzien: 8
+Battle        zmiana populacji:0 zmiana bogactwa: 184 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: 616 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 8:
+   Populacja: 101544   Bogactwo: 1004414   Zdolnosc bojowa: 100
+Dzien: 9
+NazwaTest        zmiana populacji:-12 zmiana bogactwa: -120 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 3510 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 9:
+   Populacja: 101532   Bogactwo: 1007804   Zdolnosc bojowa: 100
+Dzien: 10
+Nazwa2        zmiana populacji:-81 zmiana bogactwa: -810 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-71 zmiana bogactwa: -710 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:381 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 10:
+   Populacja: 102682   Bogactwo: 1006284   Zdolnosc bojowa: 100
+Dzien: 11
+        zmiana populacji:-57 zmiana bogactwa: -570 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: 132 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:431 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:451 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 11:
+   Populacja: 103507   Bogactwo: 1005846   Zdolnosc bojowa: 100
+Dzien: 12
+        zmiana populacji:-32 zmiana bogactwa: -320 zmiana umiejetnosci walki: 0
+Nazwa2        zmiana populacji:-70 zmiana bogactwa: -700 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:491 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -84 zmiana umiejetnosci walki: -36
+Stan wioski na dzien 12:
+   Populacja: 103896   Bogactwo: 1004742   Zdolnosc bojowa: 64
+Dzien: 13
+Battle        zmiana populacji:0 zmiana bogactwa: -585 zmiana umiejetnosci walki: -34
+Nazwa2        zmiana populacji:-4 zmiana bogactwa: -40 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -247 zmiana umiejetnosci walki: -20
+Battle        zmiana populacji:0 zmiana bogactwa: -1261 zmiana umiejetnosci walki: -20
+Stan wioski na dzien 13:
+   Populacja: 103892   Bogactwo: 1002609   Zdolnosc bojowa: -10
+Dzien: 14
+NazwaTest        zmiana populacji:-105 zmiana bogactwa: -1050 zmiana umiejetnosci walki: 0
+Nazwa2        zmiana populacji:-7 zmiana bogactwa: -70 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:861 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:221 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 14:
+   Populacja: 104862   Bogactwo: 1001489   Zdolnosc bojowa: -10
+Dzien: 15
+Battle        zmiana populacji:0 zmiana bogactwa: -5895 zmiana umiejetnosci walki: -61
+Battle        zmiana populacji:0 zmiana bogactwa: -6735 zmiana umiejetnosci walki: -993
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 471
+Battle        zmiana populacji:0 zmiana bogactwa: -13785 zmiana umiejetnosci walki: -196
+Stan wioski na dzien 15:
+   Populacja: 104862   Bogactwo: 975074   Zdolnosc bojowa: -789
+Dzien: 16
+Costam        zmiana populacji:-155 zmiana bogactwa: -1550 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:153 zmiana bogactwa: 1530 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
 Population        zmiana populacji:661 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-379 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3890 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3690 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 971
-Stan wioski na dzien 58:
-   Populacja: 24427   Bogactwo: 206201   Zdolnosc bojowa: 8680
-Dzien: 59
-Nauka        zmiana populacji:424 zmiana bogactwa: 4240 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-85 zmiana bogactwa: -850 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:108 zmiana bogactwa: 1080 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 472 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5841 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:278 zmiana bogactwa: 2780 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4602 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1890 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-9 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4366 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:861 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2537 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 59:
-   Populacja: 26004   Bogactwo: 229379   Zdolnosc bojowa: 8680
-Dzien: 60
-Pogoda        zmiana populacji:549 zmiana bogactwa: 5490 zmiana umiejetnosci walki: 0
-        zmiana populacji:-599 zmiana bogactwa: -5990 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:117 zmiana bogactwa: 1170 zmiana umiejetnosci walki: 0
-        zmiana populacji:-151 zmiana bogactwa: -1510 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1860 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:139 zmiana bogactwa: 1390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2220 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2460 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -159
-Wealth        zmiana populacji:0 zmiana bogactwa: 7010 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -139
-Population        zmiana populacji:791 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-119 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:751 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 60:
-   Populacja: 27482   Bogactwo: 243479   Zdolnosc bojowa: 8382
-Dzien: 61
-Nauka        zmiana populacji:289 zmiana bogactwa: 2890 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-579 zmiana bogactwa: -5790 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4880 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:91 zmiana bogactwa: 910 zmiana umiejetnosci walki: 0
-        zmiana populacji:-221 zmiana bogactwa: -2210 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-341 zmiana bogactwa: -3410 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4880 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7310 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-409 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-459 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9410 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1769 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-109 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 61:
-   Populacja: 25744   Bogactwo: 261728   Zdolnosc bojowa: 8382
-Dzien: 62
-Zbiory        zmiana populacji:426 zmiana bogactwa: 4260 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5580 zmiana umiejetnosci walki: 0
-        zmiana populacji:177 zmiana bogactwa: 1770 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:39 zmiana bogactwa: 390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1922 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-465 zmiana bogactwa: -4650 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2418 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-349 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-269 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4216 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-89 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9110 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 992 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 691
-Stan wioski na dzien 62:
-   Populacja: 25214   Bogactwo: 287736   Zdolnosc bojowa: 9073
-Dzien: 63
-Zbiory        zmiana populacji:-111 zmiana bogactwa: -1110 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2709 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:314 zmiana bogactwa: 3140 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:318 zmiana bogactwa: 3180 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:254 zmiana bogactwa: 2540 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-40 zmiana bogactwa: -400 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5607 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:731 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4090 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -369
-Wealth        zmiana populacji:0 zmiana bogactwa: -3290 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4473 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6174 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-139 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 63:
-   Populacja: 26541   Bogactwo: 306669   Zdolnosc bojowa: 8704
-Dzien: 64
-Pogoda        zmiana populacji:350 zmiana bogactwa: 3500 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:163 zmiana bogactwa: 1630 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:440 zmiana bogactwa: 4400 zmiana umiejetnosci walki: 0
-        zmiana populacji:408 zmiana bogactwa: 4080 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:536 zmiana bogactwa: 5360 zmiana umiejetnosci walki: 0
-        zmiana populacji:599 zmiana bogactwa: 5990 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4224 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1792 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2688 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -239
-Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9910 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1024 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -209
-Stan wioski na dzien 64:
-   Populacja: 29958   Bogactwo: 351267   Zdolnosc bojowa: 8256
-Dzien: 65
-Nauka        zmiana populacji:-606 zmiana bogactwa: -6060 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:548 zmiana bogactwa: 5480 zmiana umiejetnosci walki: 0
-        zmiana populacji:-598 zmiana bogactwa: -5980 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1495 zmiana umiejetnosci walki: 0
-        zmiana populacji:-497 zmiana bogactwa: -4970 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-373 zmiana bogactwa: -3730 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2535 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 891
-Battle        zmiana populacji:0 zmiana bogactwa: 2990 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-419 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-339 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4890 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2015 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-619 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 65:
-   Populacja: 27055   Bogactwo: 340152   Zdolnosc bojowa: 9147
-Dzien: 66
-Zbiory        zmiana populacji:319 zmiana bogactwa: 3190 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-265 zmiana bogactwa: -2650 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-258 zmiana bogactwa: -2580 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:153 zmiana bogactwa: 1530 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5808 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:530 zmiana bogactwa: 5300 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1782 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-309 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-39 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:691 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 731
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -549
-Wealth        zmiana populacji:0 zmiana bogactwa: -4590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1716 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 66:
-   Populacja: 27877   Bogactwo: 349658   Zdolnosc bojowa: 9329
-Dzien: 67
-Pogoda        zmiana populacji:376 zmiana bogactwa: 3760 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-549 zmiana bogactwa: -5490 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-364 zmiana bogactwa: -3640 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:39 zmiana bogactwa: 390 zmiana umiejetnosci walki: 0
-        zmiana populacji:-149 zmiana bogactwa: -1490 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-569 zmiana bogactwa: -5690 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:103 zmiana bogactwa: 1030 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -149
-Population        zmiana populacji:851 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7210 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 8910 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 941
-Population        zmiana populacji:-509 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2490 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 67:
-   Populacja: 27106   Bogactwo: 352158   Zdolnosc bojowa: 10121
-Dzien: 68
-Battle        zmiana populacji:0 zmiana bogactwa: 5032 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3332 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:493 zmiana bogactwa: 4930 zmiana umiejetnosci walki: 0
-        zmiana populacji:678 zmiana bogactwa: 6780 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:354 zmiana bogactwa: 3540 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:444 zmiana bogactwa: 4440 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-547 zmiana bogactwa: -5470 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -159
-Wealth        zmiana populacji:0 zmiana bogactwa: -5790 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -139
-Population        zmiana populacji:691 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5712 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 801
-Population        zmiana populacji:-249 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 68:
-   Populacja: 28970   Bogactwo: 374664   Zdolnosc bojowa: 10624
-Dzien: 69
-Battle        zmiana populacji:0 zmiana bogactwa: 1242 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:546 zmiana bogactwa: 5460 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-539 zmiana bogactwa: -5390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1449 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5313 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4002 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2622 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-39 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2790 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 781
-Population        zmiana populacji:-609 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-329 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6555 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5727 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 69:
-   Populacja: 28000   Bogactwo: 398854   Zdolnosc bojowa: 11405
-Dzien: 70
-Nauka        zmiana populacji:12 zmiana bogactwa: 120 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:652 zmiana bogactwa: 6520 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:23 zmiana bogactwa: 230 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2310 zmiana umiejetnosci walki: 0
-        zmiana populacji:-209 zmiana bogactwa: -2090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3360 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:385 zmiana bogactwa: 3850 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:11 zmiana bogactwa: 110 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7710 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3080 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-149 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1120 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -179
-Population        zmiana populacji:-449 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6790 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 10 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 70:
-   Populacja: 28276   Bogactwo: 418394   Zdolnosc bojowa: 11226
-Dzien: 71
-        zmiana populacji:526 zmiana bogactwa: 5260 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4544 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:72 zmiana bogactwa: 720 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6035 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:280 zmiana bogactwa: 2800 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1846 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:646 zmiana bogactwa: 6460 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5964 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:861 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-199 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2490 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-9 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-279 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 71:
-   Populacja: 30174   Bogactwo: 441553   Zdolnosc bojowa: 11226
-Dzien: 72
-Battle        zmiana populacji:0 zmiana bogactwa: 1800 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3312 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:536 zmiana bogactwa: 5360 zmiana umiejetnosci walki: 0
-        zmiana populacji:419 zmiana bogactwa: 4190 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 144 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 504 zmiana umiejetnosci walki: 0
-        zmiana populacji:-526 zmiana bogactwa: -5260 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:570 zmiana bogactwa: 5700 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:921 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4968 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:1 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 941
-Wealth        zmiana populacji:0 zmiana bogactwa: -1690 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-699 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:931 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7510 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 72:
-   Populacja: 32327   Bogactwo: 468091   Zdolnosc bojowa: 12167
-Dzien: 73
-Nauka        zmiana populacji:-326 zmiana bogactwa: -3260 zmiana umiejetnosci walki: 0
-        zmiana populacji:-609 zmiana bogactwa: -6090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6862 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:562 zmiana bogactwa: 5620 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:167 zmiana bogactwa: 1670 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4453 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:489 zmiana bogactwa: 4890 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-230 zmiana bogactwa: -2300 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2044 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1752 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4161 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:891 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-679 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 1
-Wealth        zmiana populacji:0 zmiana bogactwa: -6190 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5840 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 73:
-   Populacja: 32592   Bogactwo: 487543   Zdolnosc bojowa: 12168
-Dzien: 74
-Battle        zmiana populacji:0 zmiana bogactwa: 2368 zmiana umiejetnosci walki: 0
-        zmiana populacji:286 zmiana bogactwa: 2860 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:343 zmiana bogactwa: 3430 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6956 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2516 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2886 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2442 zmiana umiejetnosci walki: 0
-        zmiana populacji:689 zmiana bogactwa: 6890 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2664 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -890 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4144 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-679 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -9
-Population        zmiana populacji:-529 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5846 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-549 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 74:
-   Populacja: 32153   Bogactwo: 529655   Zdolnosc bojowa: 12159
-Dzien: 75
-        zmiana populacji:324 zmiana bogactwa: 3240 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-634 zmiana bogactwa: -6340 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-378 zmiana bogactwa: -3780 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6225 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1125 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:374 zmiana bogactwa: 3740 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:728 zmiana bogactwa: 7280 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7425 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5990 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-559 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4350 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5790 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2325 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-149 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4490 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 75:
-   Populacja: 31859   Bogactwo: 535885   Zdolnosc bojowa: 12159
-Dzien: 76
-        zmiana populacji:607 zmiana bogactwa: 6070 zmiana umiejetnosci walki: 0
-        zmiana populacji:-700 zmiana bogactwa: -7000 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 380 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:210 zmiana bogactwa: 2100 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:695 zmiana bogactwa: 6950 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:429 zmiana bogactwa: 4290 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:410 zmiana bogactwa: 4100 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:457 zmiana bogactwa: 4570 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 7710 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:871 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7490 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 8310 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -219
-Wealth        zmiana populacji:0 zmiana bogactwa: -3890 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3496 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 8110 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 76:
-   Populacja: 34838   Bogactwo: 573591   Zdolnosc bojowa: 11940
-Dzien: 77
-        zmiana populacji:-223 zmiana bogactwa: -2230 zmiana umiejetnosci walki: 0
-        zmiana populacji:124 zmiana bogactwa: 1240 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:248 zmiana bogactwa: 2480 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6083 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:572 zmiana bogactwa: 5720 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:227 zmiana bogactwa: 2270 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-344 zmiana bogactwa: -3440 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:82 zmiana bogactwa: 820 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-339 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-449 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-569 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9010 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7469 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-19 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2079 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-569 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 77:
-   Populacja: 33579   Bogactwo: 605092   Zdolnosc bojowa: 11940
-Dzien: 78
-Battle        zmiana populacji:0 zmiana bogactwa: 1716 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4290 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:352 zmiana bogactwa: 3520 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-632 zmiana bogactwa: -6320 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:431 zmiana bogactwa: 4310 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-347 zmiana bogactwa: -3470 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6552 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3432 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5190 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:831 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-169 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-609 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4290 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -369
-Battle        zmiana populacji:0 zmiana bogactwa: 1092 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6942 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 78:
-   Populacja: 33436   Bogactwo: 617676   Zdolnosc bojowa: 11571
-Dzien: 79
-Zbiory        zmiana populacji:733 zmiana bogactwa: 7330 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:151 zmiana bogactwa: 1510 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:565 zmiana bogactwa: 5650 zmiana umiejetnosci walki: 0
-        zmiana populacji:-233 zmiana bogactwa: -2330 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:198 zmiana bogactwa: 1980 zmiana umiejetnosci walki: 0
-        zmiana populacji:12 zmiana bogactwa: 120 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6952 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:498 zmiana bogactwa: 4980 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-759 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2449 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-329 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 553 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3160 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -749
-Population        zmiana populacji:-669 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 79:
-   Populacja: 33603   Bogactwo: 643440   Zdolnosc bojowa: 10822
-Dzien: 80
-Pogoda        zmiana populacji:93 zmiana bogactwa: 930 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:137 zmiana bogactwa: 1370 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:532 zmiana bogactwa: 5320 zmiana umiejetnosci walki: 0
-        zmiana populacji:113 zmiana bogactwa: 1130 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:103 zmiana bogactwa: 1030 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 240 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:540 zmiana bogactwa: 5400 zmiana umiejetnosci walki: 0
-        zmiana populacji:266 zmiana bogactwa: 2660 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4640 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:841 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5190 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-299 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-369 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-299 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-169 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-629 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -139
-Stan wioski na dzien 80:
-   Populacja: 34463   Bogactwo: 656380   Zdolnosc bojowa: 10683
-Dzien: 81
-Battle        zmiana populacji:0 zmiana bogactwa: 6885 zmiana umiejetnosci walki: 0
-        zmiana populacji:564 zmiana bogactwa: 5640 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:28 zmiana bogactwa: 280 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:480 zmiana bogactwa: 4800 zmiana umiejetnosci walki: 0
-        zmiana populacji:519 zmiana bogactwa: 5190 zmiana umiejetnosci walki: 0
-        zmiana populacji:-447 zmiana bogactwa: -4470 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:409 zmiana bogactwa: 4090 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:577 zmiana bogactwa: 5770 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-539 zmiana bogactwa: -5390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-219 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2106 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-689 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2430 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6690 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5265 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3290 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-569 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -690 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 81:
-   Populacja: 34577   Bogactwo: 678306   Zdolnosc bojowa: 10683
-Dzien: 82
-Nauka        zmiana populacji:326 zmiana bogactwa: 3260 zmiana umiejetnosci walki: 0
-        zmiana populacji:800 zmiana bogactwa: 8000 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-386 zmiana bogactwa: -3860 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 328 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4756 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7462 zmiana umiejetnosci walki: 0
-        zmiana populacji:125 zmiana bogactwa: 1250 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5986 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4592 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1886 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6560 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:1 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-339 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-89 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-509 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3936 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -189
-Wealth        zmiana populacji:0 zmiana bogactwa: -4590 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 82:
-   Populacja: 34506   Bogactwo: 717872   Zdolnosc bojowa: 10494
-Dzien: 83
-Zbiory        zmiana populacji:-232 zmiana bogactwa: -2320 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:66 zmiana bogactwa: 660 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:44 zmiana bogactwa: 440 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:361 zmiana bogactwa: 3610 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7553 zmiana umiejetnosci walki: 0
-        zmiana populacji:-548 zmiana bogactwa: -5480 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:767 zmiana bogactwa: 7670 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:550 zmiana bogactwa: 5500 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:107 zmiana bogactwa: 1070 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-39 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-159 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 996 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1990 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2090 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-109 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1690 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3403 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-519 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 83:
-   Populacja: 34795   Bogactwo: 735204   Zdolnosc bojowa: 10494
-Dzien: 84
-        zmiana populacji:39 zmiana bogactwa: 390 zmiana umiejetnosci walki: 0
-        zmiana populacji:534 zmiana bogactwa: 5340 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:-780 zmiana bogactwa: -7800 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-534 zmiana bogactwa: -5340 zmiana umiejetnosci walki: 0
-        zmiana populacji:239 zmiana bogactwa: 2390 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:561 zmiana bogactwa: 5610 zmiana umiejetnosci walki: 0
-        zmiana populacji:688 zmiana bogactwa: 6880 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:747 zmiana bogactwa: 7470 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:429 zmiana bogactwa: 4290 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4536 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-369 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5964 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-89 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-269 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7690 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1790 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6090 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6090 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 84:
-   Populacja: 35991   Bogactwo: 743274   Zdolnosc bojowa: 10494
-Dzien: 85
-Pogoda        zmiana populacji:55 zmiana bogactwa: 550 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:244 zmiana bogactwa: 2440 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8415 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:493 zmiana bogactwa: 4930 zmiana umiejetnosci walki: 0
-        zmiana populacji:263 zmiana bogactwa: 2630 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:797 zmiana bogactwa: 7970 zmiana umiejetnosci walki: 0
-        zmiana populacji:570 zmiana bogactwa: 5700 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5610 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:554 zmiana bogactwa: 5540 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-129 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-199 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2890 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7395 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:991 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-789 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-529 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8330 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 85:
-   Populacja: 38312   Bogactwo: 796304   Zdolnosc bojowa: 10494
-Dzien: 86
-Zbiory        zmiana populacji:526 zmiana bogactwa: 5260 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:96 zmiana bogactwa: 960 zmiana umiejetnosci walki: 0
-        zmiana populacji:602 zmiana bogactwa: 6020 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:159 zmiana bogactwa: 1590 zmiana umiejetnosci walki: 0
-        zmiana populacji:602 zmiana bogactwa: 6020 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 946 zmiana umiejetnosci walki: 0
-        zmiana populacji:630 zmiana bogactwa: 6300 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7740 zmiana umiejetnosci walki: 0
-        zmiana populacji:619 zmiana bogactwa: 6190 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4890 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3290 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:1 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6106 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7568 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-299 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-89 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -729
-Stan wioski na dzien 86:
-   Populacja: 41159   Bogactwo: 840534   Zdolnosc bojowa: 9765
-Dzien: 87
-Battle        zmiana populacji:0 zmiana bogactwa: 3306 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1566 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:721 zmiana bogactwa: 7210 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:341 zmiana bogactwa: 3410 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6699 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7482 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:257 zmiana bogactwa: 2570 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:845 zmiana bogactwa: 8450 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3741 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4263 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-259 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5690 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-149 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1305 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -29
-Wealth        zmiana populacji:0 zmiana bogactwa: -6090 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 16:
+   Populacja: 106442   Bogactwo: 975054   Zdolnosc bojowa: -789
+Dzien: 17
+        zmiana populacji:-139 zmiana bogactwa: -1390 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -16762 zmiana umiejetnosci walki: -434
+Population        zmiana populacji:441 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -10098 zmiana umiejetnosci walki: -293
+Stan wioski na dzien 17:
+   Populacja: 106744   Bogactwo: 946804   Zdolnosc bojowa: -1516
+Dzien: 18
+Battle        zmiana populacji:0 zmiana bogactwa: -7020 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-149 zmiana bogactwa: -1490 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:381 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 321
+Stan wioski na dzien 18:
+   Populacja: 106976   Bogactwo: 938294   Zdolnosc bojowa: -1195
+Dzien: 19
+NazwaTest        zmiana populacji:-81 zmiana bogactwa: -810 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -7372 zmiana umiejetnosci walki: -910
+Population        zmiana populacji:961 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -3059 zmiana umiejetnosci walki: -176
+Stan wioski na dzien 19:
+   Populacja: 107856   Bogactwo: 927053   Zdolnosc bojowa: -2281
+Dzien: 20
+Costam        zmiana populacji:-190 zmiana bogactwa: -1900 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-58 zmiana bogactwa: -580 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-75 zmiana bogactwa: -750 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -11300 zmiana umiejetnosci walki: -443
+Wealth        zmiana populacji:0 zmiana bogactwa: 3510 zmiana umiejetnosci walki: 0
 Population        zmiana populacji:-79 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2190 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 87:
-   Populacja: 42836   Bogactwo: 876566   Zdolnosc bojowa: 9736
-Dzien: 88
-Nauka        zmiana populacji:44 zmiana bogactwa: 440 zmiana umiejetnosci walki: 0
-        zmiana populacji:61 zmiana bogactwa: 610 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2200 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:606 zmiana bogactwa: 6060 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:275 zmiana bogactwa: 2750 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:57 zmiana bogactwa: 570 zmiana umiejetnosci walki: 0
-        zmiana populacji:529 zmiana bogactwa: 5290 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7040 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-372 zmiana bogactwa: -3720 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -779
-Wealth        zmiana populacji:0 zmiana bogactwa: -4890 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-789 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9410 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 9510 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2024 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8096 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -319
-Stan wioski na dzien 88:
-   Populacja: 43247   Bogactwo: 918666   Zdolnosc bojowa: 8638
-Dzien: 89
-Zbiory        zmiana populacji:834 zmiana bogactwa: 8340 zmiana umiejetnosci walki: 0
-        zmiana populacji:841 zmiana bogactwa: 8410 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:733 zmiana bogactwa: 7330 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:678 zmiana bogactwa: 6780 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:701 zmiana bogactwa: 7010 zmiana umiejetnosci walki: 0
-        zmiana populacji:365 zmiana bogactwa: 3650 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:100 zmiana bogactwa: 1000 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:213 zmiana bogactwa: 2130 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:166 zmiana bogactwa: 1660 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4990 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6490 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-49 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5518 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-359 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4806 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-229 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-109 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 89:
-   Populacja: 47132   Bogactwo: 957730   Zdolnosc bojowa: 8638
-Dzien: 90
-        zmiana populacji:545 zmiana bogactwa: 5450 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:229 zmiana bogactwa: 2290 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:5 zmiana bogactwa: 50 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5310 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4590 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:757 zmiana bogactwa: 7570 zmiana umiejetnosci walki: 0
-        zmiana populacji:226 zmiana bogactwa: 2260 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:191 zmiana bogactwa: 1910 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2430 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:345 zmiana bogactwa: 3450 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5850 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-299 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -8290 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-749 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5890 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -229
-Battle        zmiana populacji:0 zmiana bogactwa: 7200 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-529 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2610 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 90:
-   Populacja: 47853   Bogactwo: 987930   Zdolnosc bojowa: 8409
-Dzien: 91
-Battle        zmiana populacji:0 zmiana bogactwa: 5460 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:877 zmiana bogactwa: 8770 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:470 zmiana bogactwa: 4700 zmiana umiejetnosci walki: 0
-        zmiana populacji:-222 zmiana bogactwa: -2220 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-99 zmiana bogactwa: -990 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:177 zmiana bogactwa: 1770 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:454 zmiana bogactwa: 4540 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:315 zmiana bogactwa: 3150 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:511 zmiana bogactwa: 5110 zmiana umiejetnosci walki: 0
-        zmiana populacji:59 zmiana bogactwa: 590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3549 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-889 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-119 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 20:
+   Populacja: 107454   Bogactwo: 916033   Zdolnosc bojowa: -2724
+Dzien: 21
+NazwaTest        zmiana populacji:-26 zmiana bogactwa: -260 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-171 zmiana bogactwa: -1710 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -6279 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -20979 zmiana umiejetnosci walki: 0
 Population        zmiana populacji:-189 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-109 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6825 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-319 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -8590 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-69 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 91:
-   Populacja: 48701   Bogactwo: 1015004   Zdolnosc bojowa: 8409
-Dzien: 92
-Nauka        zmiana populacji:917 zmiana bogactwa: 9170 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:304 zmiana bogactwa: 3040 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:457 zmiana bogactwa: 4570 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:548 zmiana bogactwa: 5480 zmiana umiejetnosci walki: 0
-        zmiana populacji:417 zmiana bogactwa: 4170 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5888 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:-831 zmiana bogactwa: -8310 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:802 zmiana bogactwa: 8020 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:144 zmiana bogactwa: 1440 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:18 zmiana bogactwa: 180 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -8290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2190 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4690 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6164 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-909 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-249 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1932 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:951 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-649 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 92:
-   Populacja: 50621   Bogactwo: 1034288   Zdolnosc bojowa: 8409
-Dzien: 93
-Battle        zmiana populacji:0 zmiana bogactwa: 4185 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2046 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:801 zmiana bogactwa: 8010 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:87 zmiana bogactwa: 870 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-735 zmiana bogactwa: -7350 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:38 zmiana bogactwa: 380 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3627 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1581 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:161 zmiana bogactwa: 1610 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:337 zmiana bogactwa: 3370 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3790 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4090 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-389 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-489 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -99
-Population        zmiana populacji:-759 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-779 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4090 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -8690 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2325 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 93:
-   Populacja: 48894   Bogactwo: 1034282   Zdolnosc bojowa: 8310
-Dzien: 94
-Nauka        zmiana populacji:88 zmiana bogactwa: 880 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:606 zmiana bogactwa: 6060 zmiana umiejetnosci walki: 0
-        zmiana populacji:860 zmiana bogactwa: 8600 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:832 zmiana bogactwa: 8320 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:220 zmiana bogactwa: 2200 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5922 zmiana umiejetnosci walki: 0
-        zmiana populacji:454 zmiana bogactwa: 4540 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8930 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:376 zmiana bogactwa: 3760 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2726 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8460 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-759 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3666 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-479 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3590 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -19
-Battle        zmiana populacji:0 zmiana bogactwa: 8742 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8460 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 94:
-   Populacja: 51092   Bogactwo: 1101078   Zdolnosc bojowa: 8291
-Dzien: 95
-Pogoda        zmiana populacji:680 zmiana bogactwa: 6800 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:591 zmiana bogactwa: 5910 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:674 zmiana bogactwa: 6740 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:551 zmiana bogactwa: 5510 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-240 zmiana bogactwa: -2400 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:243 zmiana bogactwa: 2430 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:849 zmiana bogactwa: 8490 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 9310 zmiana umiejetnosci walki: 0
-        zmiana populacji:418 zmiana bogactwa: 4180 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2660 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-349 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-279 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-239 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7600 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2565 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-929 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-609 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6175 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-759 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8645 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 95:
-   Populacja: 51694   Bogactwo: 1175693   Zdolnosc bojowa: 8291
-Dzien: 96
-Pogoda        zmiana populacji:180 zmiana bogactwa: 1800 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:496 zmiana bogactwa: 4960 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:60 zmiana bogactwa: 600 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:870 zmiana bogactwa: 8700 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8544 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3936 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:157 zmiana bogactwa: 1570 zmiana umiejetnosci walki: 0
-        zmiana populacji:-241 zmiana bogactwa: -2410 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6912 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:577 zmiana bogactwa: 5770 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -779
-Battle        zmiana populacji:0 zmiana bogactwa: 7296 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-809 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-19 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-809 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3490 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7008 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:981 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-919 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-839 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 96:
-   Populacja: 51379   Bogactwo: 1226889   Zdolnosc bojowa: 7512
-Dzien: 97
-Zbiory        zmiana populacji:182 zmiana bogactwa: 1820 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:363 zmiana bogactwa: 3630 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2619 zmiana umiejetnosci walki: 0
-        zmiana populacji:606 zmiana bogactwa: 6060 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:-772 zmiana bogactwa: -7720 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:29 zmiana bogactwa: 290 zmiana umiejetnosci walki: 0
-        zmiana populacji:377 zmiana bogactwa: 3770 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:900 zmiana bogactwa: 9000 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4462 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8730 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-479 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4559 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2790 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-749 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-389 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2910 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6208 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-679 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2490 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -669
-Stan wioski na dzien 97:
-   Populacja: 50768   Bogactwo: 1267947   Zdolnosc bojowa: 6843
-Dzien: 98
-Pogoda        zmiana populacji:296 zmiana bogactwa: 2960 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:378 zmiana bogactwa: 3780 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:213 zmiana bogactwa: 2130 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8428 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:454 zmiana bogactwa: 4540 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8624 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 9114 zmiana umiejetnosci walki: 0
-        zmiana populacji:481 zmiana bogactwa: 4810 zmiana umiejetnosci walki: 0
-        zmiana populacji:118 zmiana bogactwa: 1180 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:416 zmiana bogactwa: 4160 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8428 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-349 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-969 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-379 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-169 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-259 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3190 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5590 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 10 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 98:
-   Populacja: 50999   Bogactwo: 1311941   Zdolnosc bojowa: 6843
-Dzien: 99
-        zmiana populacji:890 zmiana bogactwa: 8900 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:365 zmiana bogactwa: 3650 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:455 zmiana bogactwa: 4550 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:657 zmiana bogactwa: 6570 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:931 zmiana bogactwa: 9310 zmiana umiejetnosci walki: 0
-        zmiana populacji:926 zmiana bogactwa: 9260 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3960 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:771 zmiana bogactwa: 7710 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:715 zmiana bogactwa: 7150 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:123 zmiana bogactwa: 1230 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3069 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -659
-Population        zmiana populacji:-59 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-989 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6336 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5940 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1490 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-419 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7690 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 99:
-   Populacja: 55365   Bogactwo: 1377006   Zdolnosc bojowa: 6184
-Dzien: 100
-Nauka        zmiana populacji:413 zmiana bogactwa: 4130 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:83 zmiana bogactwa: 830 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:200 zmiana bogactwa: 2000 zmiana umiejetnosci walki: 0
-        zmiana populacji:687 zmiana bogactwa: 6870 zmiana umiejetnosci walki: 0
-        zmiana populacji:27 zmiana bogactwa: 270 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:601 zmiana bogactwa: 6010 zmiana umiejetnosci walki: 0
-        zmiana populacji:276 zmiana bogactwa: 2760 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4100 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7800 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:277 zmiana bogactwa: 2770 zmiana umiejetnosci walki: 0
-        zmiana populacji:733 zmiana bogactwa: 7330 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4690 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -69
-Population        zmiana populacji:-289 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-429 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-969 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4900 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-979 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8500 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -179
-Population        zmiana populacji:-139 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7500 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 100:
-   Populacja: 55857   Bogactwo: 1438086   Zdolnosc bojowa: 5936
-Dzien: 101
-Nauka        zmiana populacji:577 zmiana bogactwa: 5770 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4242 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:264 zmiana bogactwa: 2640 zmiana umiejetnosci walki: 0
-        zmiana populacji:122 zmiana bogactwa: 1220 zmiana umiejetnosci walki: 0
-        zmiana populacji:539 zmiana bogactwa: 5390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6161 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4444 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:313 zmiana bogactwa: 3130 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:493 zmiana bogactwa: 4930 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:458 zmiana bogactwa: 4580 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:171 zmiana bogactwa: 1710 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-209 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -9390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-819 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-19 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-179 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -19
-Population        zmiana populacji:-789 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5959 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4090 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-759 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-719 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 101:
-   Populacja: 55301   Bogactwo: 1474782   Zdolnosc bojowa: 5917
-Dzien: 102
-Battle        zmiana populacji:0 zmiana bogactwa: 9690 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:267 zmiana bogactwa: 2670 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 2040 zmiana umiejetnosci walki: 0
-        zmiana populacji:588 zmiana bogactwa: 5880 zmiana umiejetnosci walki: 0
-        zmiana populacji:350 zmiana bogactwa: 3500 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 4182 zmiana umiejetnosci walki: 0
-        zmiana populacji:612 zmiana bogactwa: 6120 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:12 zmiana bogactwa: 120 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6222 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:851 zmiana bogactwa: 8510 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 714 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7190 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -9190 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-449 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-809 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3876 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7790 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 8058 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-789 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -9090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6630 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 102:
-   Populacja: 55934   Bogactwo: 1504144   Zdolnosc bojowa: 5917
-Dzien: 103
-Battle        zmiana populacji:0 zmiana bogactwa: 5768 zmiana umiejetnosci walki: 0
-        zmiana populacji:738 zmiana bogactwa: 7380 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:413 zmiana bogactwa: 4130 zmiana umiejetnosci walki: 0
-        zmiana populacji:227 zmiana bogactwa: 2270 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:509 zmiana bogactwa: 5090 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:744 zmiana bogactwa: 7440 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:295 zmiana bogactwa: 2950 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:641 zmiana bogactwa: 6410 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:16 zmiana bogactwa: 160 zmiana umiejetnosci walki: 0
-        zmiana populacji:572 zmiana bogactwa: 5720 zmiana umiejetnosci walki: 0
-        zmiana populacji:493 zmiana bogactwa: 4930 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-939 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-549 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-819 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -169
-Battle        zmiana populacji:0 zmiana bogactwa: 5562 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6990 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -690 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-519 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1751 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -159
-Wealth        zmiana populacji:0 zmiana bogactwa: -9390 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 103:
-   Populacja: 57756   Bogactwo: 1546635   Zdolnosc bojowa: 5589
-Dzien: 104
-Pogoda        zmiana populacji:336 zmiana bogactwa: 3360 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:377 zmiana bogactwa: 3770 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1872 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:480 zmiana bogactwa: 4800 zmiana umiejetnosci walki: 0
-        zmiana populacji:983 zmiana bogactwa: 9830 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 3640 zmiana umiejetnosci walki: 0
-        zmiana populacji:776 zmiana bogactwa: 7760 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:67 zmiana bogactwa: 670 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:63 zmiana bogactwa: 630 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:988 zmiana bogactwa: 9880 zmiana umiejetnosci walki: 0
-        zmiana populacji:175 zmiana bogactwa: 1750 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -499
-Wealth        zmiana populacji:0 zmiana bogactwa: -4790 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-399 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-439 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -9790 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -969
-Population        zmiana populacji:-29 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-679 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 10192 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-239 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-539 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 104:
-   Populacja: 59677   Bogactwo: 1590209   Zdolnosc bojowa: 4121
-Dzien: 105
-Nauka        zmiana populacji:852 zmiana bogactwa: 8520 zmiana umiejetnosci walki: 0
-        zmiana populacji:35 zmiana bogactwa: 350 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:916 zmiana bogactwa: 9160 zmiana umiejetnosci walki: 0
-        zmiana populacji:231 zmiana bogactwa: 2310 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:252 zmiana bogactwa: 2520 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:951 zmiana bogactwa: 9510 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7875 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:192 zmiana bogactwa: 1920 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:497 zmiana bogactwa: 4970 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:813 zmiana bogactwa: 8130 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6720 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 6090 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -969
-Wealth        zmiana populacji:0 zmiana bogactwa: -4890 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1990 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 9765 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-29 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-309 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7290 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -789
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -389
-Battle        zmiana populacji:0 zmiana bogactwa: 1995 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 105:
-   Populacja: 64078   Bogactwo: 1655874   Zdolnosc bojowa: 1974
-Dzien: 106
-Pogoda        zmiana populacji:705 zmiana bogactwa: 7050 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:311 zmiana bogactwa: 3110 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:320 zmiana bogactwa: 3200 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:118 zmiana bogactwa: 1180 zmiana umiejetnosci walki: 0
-        zmiana populacji:121 zmiana bogactwa: 1210 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 1590 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:498 zmiana bogactwa: 4980 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:144 zmiana bogactwa: 1440 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 7844 zmiana umiejetnosci walki: 0
-        zmiana populacji:886 zmiana bogactwa: 8860 zmiana umiejetnosci walki: 0
-        zmiana populacji:266 zmiana bogactwa: 2660 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -859
-Battle        zmiana populacji:0 zmiana bogactwa: 3604 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2990 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -8390 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5724 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5618 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3690 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7990 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -659
-Wealth        zmiana populacji:0 zmiana bogactwa: -290 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-109 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 106:
-   Populacja: 67338   Bogactwo: 1690594   Zdolnosc bojowa: 456
-Dzien: 107
-Zbiory        zmiana populacji:441 zmiana bogactwa: 4410 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:446 zmiana bogactwa: 4460 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:325 zmiana bogactwa: 3250 zmiana umiejetnosci walki: 0
-        zmiana populacji:287 zmiana bogactwa: 2870 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: 5350 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:310 zmiana bogactwa: 3100 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:193 zmiana bogactwa: 1930 zmiana umiejetnosci walki: 0
-        zmiana populacji:326 zmiana bogactwa: 3260 zmiana umiejetnosci walki: 0
-        zmiana populacji:218 zmiana bogactwa: 2180 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -9844 zmiana umiejetnosci walki: -444
-Pogoda        zmiana populacji:822 zmiana bogactwa: 8220 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5390 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-329 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -4280 zmiana umiejetnosci walki: -179
-Population        zmiana populacji:-509 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -12519 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -9737 zmiana umiejetnosci walki: -1070
-Population        zmiana populacji:-949 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -879
-Population        zmiana populacji:-309 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -169
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -599
-Stan wioski na dzien 107:
-   Populacja: 68610   Bogactwo: 1687854   Zdolnosc bojowa: -2884
-Dzien: 108
-Battle        zmiana populacji:0 zmiana bogactwa: -43524 zmiana umiejetnosci walki: -237
-        zmiana populacji:1024 zmiana bogactwa: 10240 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -4968 zmiana umiejetnosci walki: -4017
-Zbiory        zmiana populacji:108 zmiana bogactwa: 1080 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:655 zmiana bogactwa: 6550 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -85320 zmiana umiejetnosci walki: -3775
-Pogoda        zmiana populacji:71 zmiana bogactwa: 710 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:235 zmiana bogactwa: 2350 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:704 zmiana bogactwa: 7040 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -93096 zmiana umiejetnosci walki: -4282
-Zbiory        zmiana populacji:134 zmiana bogactwa: 1340 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -429
-Population        zmiana populacji:-929 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4290 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -369
-Wealth        zmiana populacji:0 zmiana bogactwa: -1490 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -1490 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-199 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-819 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -169
-Wealth        zmiana populacji:0 zmiana bogactwa: -6290 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -76572 zmiana umiejetnosci walki: -201
-Stan wioski na dzien 108:
-   Populacja: 69594   Bogactwo: 1400124   Zdolnosc bojowa: -16363
-Dzien: 109
-        zmiana populacji:234 zmiana bogactwa: 2340 zmiana umiejetnosci walki: 0
-        zmiana populacji:800 zmiana bogactwa: 8000 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:567 zmiana bogactwa: 5670 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -28994 zmiana umiejetnosci walki: -3070
-Pogoda        zmiana populacji:682 zmiana bogactwa: 6820 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -63547 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -77608 zmiana umiejetnosci walki: -3252
-Nauka        zmiana populacji:476 zmiana bogactwa: 4760 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:24 zmiana bogactwa: 240 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:421 zmiana bogactwa: 4210 zmiana umiejetnosci walki: 0
-        zmiana populacji:181 zmiana bogactwa: 1810 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-869 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-719 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5790 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -85456 zmiana umiejetnosci walki: -190
-Population        zmiana populacji:-129 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -75973 zmiana umiejetnosci walki: -597
-Population        zmiana populacji:-819 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -6190 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -75428 zmiana umiejetnosci walki: -2921
-Wealth        zmiana populacji:0 zmiana bogactwa: -8290 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -6867 zmiana umiejetnosci walki: -1655
-Stan wioski na dzien 109:
-   Populacja: 70443   Bogactwo: 999831   Zdolnosc bojowa: -28048
-Dzien: 110
-        zmiana populacji:112 zmiana bogactwa: 1120 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:985 zmiana bogactwa: 9850 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:419 zmiana bogactwa: 4190 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:943 zmiana bogactwa: 9430 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:978 zmiana bogactwa: 9780 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:379 zmiana bogactwa: 3790 zmiana umiejetnosci walki: 0
-        zmiana populacji:952 zmiana bogactwa: 9520 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:234 zmiana bogactwa: 2340 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:604 zmiana bogactwa: 6040 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -80630 zmiana umiejetnosci walki: -50
-        zmiana populacji:824 zmiana bogactwa: 8240 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:284 zmiana bogactwa: 2840 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -77660 zmiana umiejetnosci walki: -4950
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -779
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -669
-Wealth        zmiana populacji:0 zmiana bogactwa: -3890 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -789
-Population        zmiana populacji:-889 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -590 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -15730 zmiana umiejetnosci walki: -4900
-Population        zmiana populacji:-889 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: 10 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -94050 zmiana umiejetnosci walki: -3590
-Population        zmiana populacji:-209 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 110:
-   Populacja: 75170   Bogactwo: 794431   Zdolnosc bojowa: -43775
-Dzien: 111
-Pogoda        zmiana populacji:887 zmiana bogactwa: 8870 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:176 zmiana bogactwa: 1760 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:84 zmiana bogactwa: 840 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -39627 zmiana umiejetnosci walki: -2830
-Battle        zmiana populacji:0 zmiana bogactwa: -55722 zmiana umiejetnosci walki: -1603
-Zbiory        zmiana populacji:949 zmiana bogactwa: 9490 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:429 zmiana bogactwa: 4290 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:723 zmiana bogactwa: 7230 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:189 zmiana bogactwa: 1890 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:837 zmiana bogactwa: 8370 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:879 zmiana bogactwa: 8790 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:603 zmiana bogactwa: 6030 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -24753 zmiana umiejetnosci walki: -752
-Wealth        zmiana populacji:0 zmiana bogactwa: -3090 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -969
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -409
-Population        zmiana populacji:-739 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -11100 zmiana umiejetnosci walki: -1351
-Battle        zmiana populacji:0 zmiana bogactwa: -106005 zmiana umiejetnosci walki: -2217
-Population        zmiana populacji:-589 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-39 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-589 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2690 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -109
-Stan wioski na dzien 111:
-   Populacja: 78970   Bogactwo: 609004   Zdolnosc bojowa: -54015
-Dzien: 112
-Nauka        zmiana populacji:676 zmiana bogactwa: 6760 zmiana umiejetnosci walki: 0
-        zmiana populacji:338 zmiana bogactwa: 3380 zmiana umiejetnosci walki: 0
-        zmiana populacji:541 zmiana bogactwa: 5410 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:641 zmiana bogactwa: 6410 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:709 zmiana bogactwa: 7090 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -30576 zmiana umiejetnosci walki: -968
-        zmiana populacji:650 zmiana bogactwa: 6500 zmiana umiejetnosci walki: 0
-        zmiana populacji:34 zmiana bogactwa: 340 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:601 zmiana bogactwa: 6010 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:528 zmiana bogactwa: 5280 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:729 zmiana bogactwa: 7290 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -110656 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -34832 zmiana umiejetnosci walki: -2993
+Population        zmiana populacji:-99 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 21:
+   Populacja: 106969   Bogactwo: 886805   Zdolnosc bojowa: -2724
+Dzien: 22
+        zmiana populacji:-51 zmiana bogactwa: -510 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-148 zmiana bogactwa: -1480 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-162 zmiana bogactwa: -1620 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:461 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 871
+Population        zmiana populacji:-189 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 22:
+   Populacja: 106880   Bogactwo: 883195   Zdolnosc bojowa: -1853
+Dzien: 23
+Nazwa1        zmiana populacji:-77 zmiana bogactwa: -770 zmiana umiejetnosci walki: 0
+        zmiana populacji:-52 zmiana bogactwa: -520 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-107 zmiana bogactwa: -1070 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:511 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
 Population        zmiana populacji:-89 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2790 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -849
-Battle        zmiana populacji:0 zmiana bogactwa: -101472 zmiana umiejetnosci walki: -2900
-Wealth        zmiana populacji:0 zmiana bogactwa: -4790 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -5190 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -649
-Wealth        zmiana populacji:0 zmiana bogactwa: -1290 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3990 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -3390 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -139
-Stan wioski na dzien 112:
-   Populacja: 84328   Bogactwo: 364498   Zdolnosc bojowa: -62513
-Dzien: 113
-Nauka        zmiana populacji:1066 zmiana bogactwa: 10660 zmiana umiejetnosci walki: 0
-        zmiana populacji:182 zmiana bogactwa: 1820 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:1048 zmiana bogactwa: 10480 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:288 zmiana bogactwa: 2880 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:693 zmiana bogactwa: 6930 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -28702 zmiana umiejetnosci walki: -37
-        zmiana populacji:562 zmiana bogactwa: 5620 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:903 zmiana bogactwa: 9030 zmiana umiejetnosci walki: 0
-        zmiana populacji:138 zmiana bogactwa: 1380 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -80908 zmiana umiejetnosci walki: -3047
-Zbiory        zmiana populacji:66 zmiana bogactwa: 660 zmiana umiejetnosci walki: 0
-Zbiory        zmiana populacji:1059 zmiana bogactwa: 10590 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -8490 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -53110 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -579
-Population        zmiana populacji:-369 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -34352 zmiana umiejetnosci walki: -3757
-Wealth        zmiana populacji:0 zmiana bogactwa: -3690 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -2090 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -4790 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -5085 zmiana umiejetnosci walki: -1177
-Population        zmiana populacji:-479 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 3410 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 23:
+   Populacja: 107066   Bogactwo: 884245   Zdolnosc bojowa: -1853
+Dzien: 24
+Nazwa1        zmiana populacji:20 zmiana bogactwa: 200 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -14088 zmiana umiejetnosci walki: -660
+Battle        zmiana populacji:0 zmiana bogactwa: -20544 zmiana umiejetnosci walki: -748
+Population        zmiana populacji:251 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-179 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:911 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 24:
+   Populacja: 108069   Bogactwo: 849813   Zdolnosc bojowa: -3261
+Dzien: 25
+Battle        zmiana populacji:0 zmiana bogactwa: -18675 zmiana umiejetnosci walki: -189
+Battle        zmiana populacji:0 zmiana bogactwa: -5525 zmiana umiejetnosci walki: -1766
+Battle        zmiana populacji:0 zmiana bogactwa: -6225 zmiana umiejetnosci walki: -1924
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 501
+Wealth        zmiana populacji:0 zmiana bogactwa: 9710 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-9 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 25:
+   Populacja: 108060   Bogactwo: 829098   Zdolnosc bojowa: -6639
+Dzien: 26
+NazwaTest        zmiana populacji:-115 zmiana bogactwa: -1150 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -8892 zmiana umiejetnosci walki: -779
+Nazwa2        zmiana populacji:-6 zmiana bogactwa: -60 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -219
+Population        zmiana populacji:641 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:411 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 26:
+   Populacja: 108991   Bogactwo: 818996   Zdolnosc bojowa: -7637
+Dzien: 27
+Costam        zmiana populacji:-21 zmiana bogactwa: -210 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:155 zmiana bogactwa: 1550 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-174 zmiana bogactwa: -1740 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 721
+Population        zmiana populacji:371 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-109 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 27:
+   Populacja: 109213   Bogactwo: 818596   Zdolnosc bojowa: -6916
+Dzien: 28
+Battle        zmiana populacji:0 zmiana bogactwa: -26908 zmiana umiejetnosci walki: -1043
+Battle        zmiana populacji:0 zmiana bogactwa: -4060 zmiana umiejetnosci walki: -2192
+Nazwa2        zmiana populacji:-160 zmiana bogactwa: -1600 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 9310 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -10108 zmiana umiejetnosci walki: -844
+Population        zmiana populacji:351 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 28:
+   Populacja: 109404   Bogactwo: 785230   Zdolnosc bojowa: -10995
+Dzien: 29
+NazwaTest        zmiana populacji:116 zmiana bogactwa: 1160 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:40 zmiana bogactwa: 400 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -10527 zmiana umiejetnosci walki: -2199
+Battle        zmiana populacji:0 zmiana bogactwa: -25520 zmiana umiejetnosci walki: -155
+Battle        zmiana populacji:0 zmiana bogactwa: -725 zmiana umiejetnosci walki: -1009
+Population        zmiana populacji:721 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 29:
+   Populacja: 110281   Bogactwo: 750018   Zdolnosc bojowa: -14358
+Dzien: 30
+NazwaTest        zmiana populacji:-55 zmiana bogactwa: -550 zmiana umiejetnosci walki: 0
+        zmiana populacji:209 zmiana bogactwa: 2090 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-191 zmiana bogactwa: -1910 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-22 zmiana bogactwa: -220 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:831 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:681 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -13710 zmiana umiejetnosci walki: -988
+Battle        zmiana populacji:0 zmiana bogactwa: -26910 zmiana umiejetnosci walki: -730
+Stan wioski na dzien 30:
+   Populacja: 111734   Bogactwo: 708808   Zdolnosc bojowa: -16076
+Dzien: 31
+Battle        zmiana populacji:0 zmiana bogactwa: -4867 zmiana umiejetnosci walki: -202
+Costam        zmiana populacji:-275 zmiana bogactwa: -2750 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-95 zmiana bogactwa: -950 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:219 zmiana bogactwa: 2190 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 6310 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 6710 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -15066 zmiana umiejetnosci walki: -1047
+Population        zmiana populacji:-169 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 31:
+   Populacja: 111414   Bogactwo: 700385   Zdolnosc bojowa: -17325
+Dzien: 32
+        zmiana populacji:23 zmiana bogactwa: 230 zmiana umiejetnosci walki: 0
+Nazwa2        zmiana populacji:-202 zmiana bogactwa: -2020 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-62 zmiana bogactwa: -620 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-36 zmiana bogactwa: -360 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:531 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:471 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 7810 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:391 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 32:
+   Populacja: 112530   Bogactwo: 705425   Zdolnosc bojowa: -17325
+Dzien: 33
+        zmiana populacji:-13 zmiana bogactwa: -130 zmiana umiejetnosci walki: 0
+        zmiana populacji:-216 zmiana bogactwa: -2160 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:-254 zmiana bogactwa: -2540 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:179 zmiana bogactwa: 1790 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-309 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:421 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:991 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-209 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 33:
+   Populacja: 113120   Bogactwo: 702385   Zdolnosc bojowa: -17325
+Dzien: 34
+Battle        zmiana populacji:0 zmiana bogactwa: -33728 zmiana umiejetnosci walki: -712
+Battle        zmiana populacji:0 zmiana bogactwa: -33218 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:99 zmiana bogactwa: 990 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-147 zmiana bogactwa: -1470 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-119 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 9610 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:731 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 7210 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 34:
+   Populacja: 113684   Bogactwo: 651779   Zdolnosc bojowa: -18037
+Dzien: 35
+Battle        zmiana populacji:0 zmiana bogactwa: -16975 zmiana umiejetnosci walki: -1141
+NazwaTest        zmiana populacji:-11 zmiana bogactwa: -110 zmiana umiejetnosci walki: 0
+        zmiana populacji:-229 zmiana bogactwa: -2290 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-260 zmiana bogactwa: -2600 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 831
+Population        zmiana populacji:621 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 861
+Population        zmiana populacji:881 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 35:
+   Populacja: 114686   Bogactwo: 629804   Zdolnosc bojowa: -17486
+Dzien: 36
+NazwaTest        zmiana populacji:-278 zmiana bogactwa: -2780 zmiana umiejetnosci walki: 0
+        zmiana populacji:258 zmiana bogactwa: 2580 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:138 zmiana bogactwa: 1380 zmiana umiejetnosci walki: 0
+        zmiana populacji:-43 zmiana bogactwa: -430 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 891
+Population        zmiana populacji:991 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -3780 zmiana umiejetnosci walki: -385
+Wealth        zmiana populacji:0 zmiana bogactwa: -2990 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 36:
+   Populacja: 115752   Bogactwo: 623784   Zdolnosc bojowa: -16980
+Dzien: 37
+        zmiana populacji:-115 zmiana bogactwa: -1150 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:277 zmiana bogactwa: 2770 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-101 zmiana bogactwa: -1010 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -24975 zmiana umiejetnosci walki: -228
+Battle        zmiana populacji:0 zmiana bogactwa: -31302 zmiana umiejetnosci walki: -312
+Population        zmiana populacji:-239 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -11470 zmiana umiejetnosci walki: -2195
+Battle        zmiana populacji:0 zmiana bogactwa: -18278 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 37:
+   Populacja: 115574   Bogactwo: 538369   Zdolnosc bojowa: -19715
+Dzien: 38
+Nazwa2        zmiana populacji:-280 zmiana bogactwa: -2800 zmiana umiejetnosci walki: 0
+Nazwa2        zmiana populacji:-203 zmiana bogactwa: -2030 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:79 zmiana bogactwa: 790 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-301 zmiana bogactwa: -3010 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 9510 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -13718 zmiana umiejetnosci walki: -2359
+Population        zmiana populacji:771 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 941
+Stan wioski na dzien 38:
+   Populacja: 115640   Bogactwo: 527111   Zdolnosc bojowa: -21133
+Dzien: 39
+        zmiana populacji:-178 zmiana bogactwa: -1780 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -8268 zmiana umiejetnosci walki: -1400
+Nazwa2        zmiana populacji:-193 zmiana bogactwa: -1930 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-217 zmiana bogactwa: -2170 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-389 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -38064 zmiana umiejetnosci walki: -443
+Population        zmiana populacji:-99 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -279
+Stan wioski na dzien 39:
+   Populacja: 114564   Bogactwo: 474899   Zdolnosc bojowa: -23255
+Dzien: 40
+        zmiana populacji:328 zmiana bogactwa: 3280 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -39320 zmiana umiejetnosci walki: -288
+Costam        zmiana populacji:-376 zmiana bogactwa: -3760 zmiana umiejetnosci walki: 0
+Nazwa2        zmiana populacji:-114 zmiana bogactwa: -1140 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-345 zmiana bogactwa: -3450 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -99
 Population        zmiana populacji:-39 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -52319 zmiana umiejetnosci walki: -2084
-Stan wioski na dzien 113:
-   Populacja: 89446   Bogactwo: 151012   Zdolnosc bojowa: -73194
-Dzien: 114
-        zmiana populacji:656 zmiana bogactwa: 6560 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:247 zmiana bogactwa: 2470 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:729 zmiana bogactwa: 7290 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:219 zmiana bogactwa: 2190 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -86982 zmiana umiejetnosci walki: -1839
-Zbiory        zmiana populacji:443 zmiana bogactwa: 4430 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -76494 zmiana umiejetnosci walki: -31
-Battle        zmiana populacji:0 zmiana bogactwa: -52440 zmiana umiejetnosci walki: -3009
-Pogoda        zmiana populacji:523 zmiana bogactwa: 5230 zmiana umiejetnosci walki: 0
-Nauka        zmiana populacji:538 zmiana bogactwa: 5380 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:677 zmiana bogactwa: 6770 zmiana umiejetnosci walki: 0
-Pogoda        zmiana populacji:668 zmiana bogactwa: 6680 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -819
-Battle        zmiana populacji:0 zmiana bogactwa: -23826 zmiana umiejetnosci walki: -422
-Population        zmiana populacji:-539 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Wealth        zmiana populacji:0 zmiana bogactwa: -7890 zmiana umiejetnosci walki: 0
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -849
-Wealth        zmiana populacji:0 zmiana bogactwa: -1890 zmiana umiejetnosci walki: 0
-Population        zmiana populacji:-919 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Battle        zmiana populacji:0 zmiana bogactwa: -51756 zmiana umiejetnosci walki: -156
-Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: -589
-Battle        zmiana populacji:0 zmiana bogactwa: -87096 zmiana umiejetnosci walki: -2270
-Wealth        zmiana populacji:0 zmiana bogactwa: -2190 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -19520 zmiana umiejetnosci walki: -717
+Population        zmiana populacji:-59 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:711 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 40:
+   Populacja: 114670   Bogactwo: 410989   Zdolnosc bojowa: -24359
+Dzien: 41
+Costam        zmiana populacji:-299 zmiana bogactwa: -2990 zmiana umiejetnosci walki: 0
+        zmiana populacji:260 zmiana bogactwa: 2600 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -32472 zmiana umiejetnosci walki: -364
+NazwaTest        zmiana populacji:44 zmiana bogactwa: 440 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-59 zmiana bogactwa: -590 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -4387 zmiana umiejetnosci walki: -348
+Population        zmiana populacji:951 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-29 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
 Population        zmiana populacji:-379 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
-Stan wioski na dzien 114:
-   Populacja: 92309   Bogactwo: -192552   Zdolnosc bojowa: -83178
-Dzien: 115
+Battle        zmiana populacji:0 zmiana bogactwa: -9389 zmiana umiejetnosci walki: -1518
+Stan wioski na dzien 41:
+   Populacja: 115159   Bogactwo: 364201   Zdolnosc bojowa: -26589
+Dzien: 42
+NazwaTest        zmiana populacji:231 zmiana bogactwa: 2310 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-194 zmiana bogactwa: -1940 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:-216 zmiana bogactwa: -2160 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -22218 zmiana umiejetnosci walki: -1044
+Nazwa2        zmiana populacji:74 zmiana bogactwa: 740 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:681 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:711 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -11928 zmiana umiejetnosci walki: -720
+Population        zmiana populacji:871 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:901 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 42:
+   Populacja: 118218   Bogactwo: 329005   Zdolnosc bojowa: -28353
+Dzien: 43
+Nazwa2        zmiana populacji:117 zmiana bogactwa: 1170 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -11696 zmiana umiejetnosci walki: -2443
+Battle        zmiana populacji:0 zmiana bogactwa: -12986 zmiana umiejetnosci walki: -1507
+        zmiana populacji:-204 zmiana bogactwa: -2040 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -28208 zmiana umiejetnosci walki: -2079
+Population        zmiana populacji:-9 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-339 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: -1090 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -5590 zmiana umiejetnosci walki: -755
+Population        zmiana populacji:-429 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 43:
+   Populacja: 117354   Bogactwo: 268565   Zdolnosc bojowa: -35137
+Dzien: 44
+Battle        zmiana populacji:0 zmiana bogactwa: -37180 zmiana umiejetnosci walki: -2083
+Costam        zmiana populacji:-386 zmiana bogactwa: -3860 zmiana umiejetnosci walki: 0
+Nazwa1        zmiana populacji:-405 zmiana bogactwa: -4050 zmiana umiejetnosci walki: 0
+        zmiana populacji:191 zmiana bogactwa: 1910 zmiana umiejetnosci walki: 0
+        zmiana populacji:35 zmiana bogactwa: 350 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 8610 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-309 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:651 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 9310 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:651 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 44:
+   Populacja: 117782   Bogactwo: 243655   Zdolnosc bojowa: -37220
+Dzien: 45
+Costam        zmiana populacji:-269 zmiana bogactwa: -2690 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -3150 zmiana umiejetnosci walki: -891
+Nazwa2        zmiana populacji:247 zmiana bogactwa: 2470 zmiana umiejetnosci walki: 0
+NazwaTest        zmiana populacji:415 zmiana bogactwa: 4150 zmiana umiejetnosci walki: 0
+Costam        zmiana populacji:400 zmiana bogactwa: 4000 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:1 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:641 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 661
+Battle        zmiana populacji:0 zmiana bogactwa: -12285 zmiana umiejetnosci walki: -232
+Population        zmiana populacji:591 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 45:
+   Populacja: 119808   Bogactwo: 236150   Zdolnosc bojowa: -37682
+Dzien: 46
+Battle        zmiana populacji:0 zmiana bogactwa: -32246 zmiana umiejetnosci walki: -3220
+Nazwa2        zmiana populacji:389 zmiana bogactwa: 3890 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -230 zmiana umiejetnosci walki: -1362
+Nazwa2        zmiana populacji:159 zmiana bogactwa: 1590 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -4968 zmiana umiejetnosci walki: -750
+Population        zmiana populacji:751 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -42044 zmiana umiejetnosci walki: -1140
+Population        zmiana populacji:561 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-219 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:811 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 46:
+   Populacja: 122260   Bogactwo: 162142   Zdolnosc bojowa: -44154
+Dzien: 47
+Battle        zmiana populacji:0 zmiana bogactwa: -42582 zmiana umiejetnosci walki: -1680
+Battle        zmiana populacji:0 zmiana bogactwa: -15839 zmiana umiejetnosci walki: -2632
+Battle        zmiana populacji:0 zmiana bogactwa: -282 zmiana umiejetnosci walki: -2656
+Battle        zmiana populacji:0 zmiana bogactwa: -28717 zmiana umiejetnosci walki: -545
+Nazwa1        zmiana populacji:166 zmiana bogactwa: 1660 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -15792 zmiana umiejetnosci walki: -978
+Population        zmiana populacji:-59 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 521
+Population        zmiana populacji:-209 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-319 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 47:
+   Populacja: 121839   Bogactwo: 60590   Zdolnosc bojowa: -52124
+Dzien: 48
+Battle        zmiana populacji:0 zmiana bogactwa: -36576 zmiana umiejetnosci walki: -408
+Costam        zmiana populacji:250 zmiana bogactwa: 2500 zmiana umiejetnosci walki: 0
+        zmiana populacji:-229 zmiana bogactwa: -2290 zmiana umiejetnosci walki: 0
+Battle        zmiana populacji:0 zmiana bogactwa: -47568 zmiana umiejetnosci walki: -311
+Nazwa2        zmiana populacji:-348 zmiana bogactwa: -3480 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 901
+Population        zmiana populacji:-39 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-399 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Population        zmiana populacji:-119 zmiana bogactwa: 0 zmiana umiejetnosci walki: 0
+Wealth        zmiana populacji:0 zmiana bogactwa: 9510 zmiana umiejetnosci walki: 0
+Stan wioski na dzien 48:
+   Populacja: 120955   Bogactwo: -17314   Zdolnosc bojowa: -51942
+Dzien: 49
 Symulacja zakonczona.

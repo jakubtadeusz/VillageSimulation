@@ -14,7 +14,7 @@ class VillageCouncilTest {
     void areChoicesCountedCorrectly(){
         assertEquals(VillageCouncil.getChoiceFromVotes(1000, 10, 50), MemberChoice.POPULATION);
         assertEquals(VillageCouncil.getChoiceFromVotes(100, 1000, 50), MemberChoice.WEALTH);
-        assertEquals(VillageCouncil.getChoiceFromVotes(10, 10, 5000), MemberChoice.COMBATCAPABILITY);
+        assertEquals(VillageCouncil.getChoiceFromVotes(10, 10, 5000), MemberChoice.COMBAT_CAPABILITY);
     }
 
     @Test

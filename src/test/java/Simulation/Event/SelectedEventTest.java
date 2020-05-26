@@ -33,7 +33,7 @@ class SelectedEventTest {
 
     @Test
     void isCombatCapabilityOptionWorking(){
-        SelectedEvent selectedEvent = new SelectedEvent("Test", 50, MemberChoice.COMBATCAPABILITY);
+        SelectedEvent selectedEvent = new SelectedEvent("Test", 50, MemberChoice.COMBAT_CAPABILITY);
         selectedEvent.setSelectedChanges();
         selectedEvent.executeOnVillage(village);
         assertNotEquals(village.getCombatCapability(), 0);

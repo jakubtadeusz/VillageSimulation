@@ -9,34 +9,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import static Simulation.SimulationConsts.BATTLE_CHANCE;
+import static Simulation.SimulationConsts.DIFFICULTY_CAP;
+
 public class VillageCouncil {
-    private final int MAXCOUNCILSIZE = 300;
+    private final static int MAX_COUNCIL_SIZE = 300;
+    private final static double MEMBERS_PER_SETTLER = 0.01;
     private final ArrayList<CouncilMember> councilMemberArrayList = new ArrayList<>();
 
-    private ArrayList<CouncilMember> getCouncilMemberArrayList() {
-        return this.councilMemberArrayList;
-    }
-
-    private void rerollCouncilMembers() {
-        for (CouncilMember councilMember : councilMemberArrayList
-        ) {
-            councilMember.rerollMember();
-        }
-    }
-
-    private void addNewCouncilMembers(long amount) {
-        for (int i = 0; i < amount; i++) {
-            councilMemberArrayList.add(new CouncilMember());
-        }
-    }
-
-    public VillageCouncil(long amount) {
-        long memberAmount = this.calculateCouncilSize(amount);
-        addNewCouncilMembers(memberAmount);
-    }
-
-    private long calculateCouncilSize(long amount) {
-        return Math.min((amount / 100 + 1), MAXCOUNCILSIZE);
+    public VillageCouncil(long villagePopulation) {
+        long memberAmount = this.calculateCouncilSize(villagePopulation);
+        createCouncilMembers(memberAmount);
     }
 
     public List<Event> getChoices(int amount, int difficulty) {
@@ -45,13 +28,53 @@ public class VillageCouncil {
         String eventName;
         for (int i = 0; i < amount; i++) {
             choice = voteForChoice();
-            eventName = choice == MemberChoice.POPULATION ? "Population" : choice == MemberChoice.COMBATCAPABILITY ? "Combat capability" : "Wealth";
+            eventName = getSelectedEventName(choice);
             Random random = new Random();
-            if (random.nextInt(100) > 75) {
+            if (random.nextInt(DIFFICULTY_CAP) > (DIFFICULTY_CAP - BATTLE_CHANCE)) {
                 eventList.add(new BattleEvent(difficulty));
             } else eventList.add(new SelectedEvent(eventName, difficulty, choice));
         }
         return eventList;
+    }
+
+    private String getSelectedEventName(MemberChoice choice){
+        return choice == MemberChoice.POPULATION ? "Population" : choice == MemberChoice.COMBAT_CAPABILITY ? "Combat capability" : "Wealth";
+    }
+
+    public int councilSize() {
+        return this.getCouncilMemberArrayList().size();
+    }
+
+    public int getMaxCouncilSize() {
+        return MAX_COUNCIL_SIZE;
+    }
+
+    public static MemberChoice getChoiceFromVotes(int population, int wealth, int combat) {
+        if (population > wealth) {
+            if (combat > population) {
+                return MemberChoice.COMBAT_CAPABILITY;
+            } else return MemberChoice.POPULATION;
+        } else if (combat > wealth) {
+            return MemberChoice.COMBAT_CAPABILITY;
+        } else return MemberChoice.WEALTH;
+    }
+
+    private ArrayList<CouncilMember> getCouncilMemberArrayList() {
+        return this.councilMemberArrayList;
+    }
+
+    private void addNewCouncilMember(CouncilMember councilMember) {
+        councilMemberArrayList.add(councilMember);
+    }
+
+    private void createCouncilMembers(long memberAmount) {
+        for (int i = 0; i < memberAmount; i++) {
+            addNewCouncilMember(new CouncilMember());
+        }
+    }
+
+    private long calculateCouncilSize(long villagePopulation) {
+        return Math.min(((int) (villagePopulation * MEMBERS_PER_SETTLER)), getMaxCouncilSize());
     }
 
     private MemberChoice voteForChoice() {
@@ -66,7 +89,7 @@ public class VillageCouncil {
                 case WEALTH:
                     wealth++;
                     break;
-                case COMBATCAPABILITY:
+                case COMBAT_CAPABILITY:
                     combat++;
                     break;
             }
@@ -74,21 +97,4 @@ public class VillageCouncil {
         return getChoiceFromVotes(population, wealth, combat);
     }
 
-    public static MemberChoice getChoiceFromVotes(int population, int wealth, int combat) {
-        if (population > wealth) {
-            if (combat > population) {
-                return MemberChoice.COMBATCAPABILITY;
-            } else return MemberChoice.POPULATION;
-        } else if (combat > wealth) {
-            return MemberChoice.COMBATCAPABILITY;
-        } else return MemberChoice.WEALTH;
-    }
-
-    public int councilSize() {
-        return this.getCouncilMemberArrayList().size();
-    }
-
-    public int getMaxCouncilSize() {
-        return MAXCOUNCILSIZE;
-    }
 }

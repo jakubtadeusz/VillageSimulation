@@ -3,6 +3,7 @@ package Simulation.VillageCouncil;
 import java.util.Random;
 
 public class CouncilMember {
+    private static final int IMPORTANCE_CAP = 100;
     private int populationImportance;
     private int wealthImportance;
     private int combatCapabilityImportance;
@@ -14,9 +15,9 @@ public class CouncilMember {
     }
 
     protected void rerollMember() {
-        this.populationImportance = random.nextInt(100);
-        this.wealthImportance = random.nextInt(100);
-        this.combatCapabilityImportance = random.nextInt(100);
+        this.populationImportance = random.nextInt(IMPORTANCE_CAP);
+        this.wealthImportance = random.nextInt(IMPORTANCE_CAP);
+        this.combatCapabilityImportance = random.nextInt(IMPORTANCE_CAP);
     }
 
     protected MemberChoice getMemberChoice() {
@@ -26,6 +27,6 @@ public class CouncilMember {
             return MemberChoice.POPULATION;
         } else if (choice >= max - this.wealthImportance) {
             return MemberChoice.WEALTH;
-        } else return MemberChoice.COMBATCAPABILITY;
+        } else return MemberChoice.COMBAT_CAPABILITY;
     }
 }

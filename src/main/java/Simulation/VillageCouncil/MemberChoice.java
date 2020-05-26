@@ -1,5 +1,5 @@
 package Simulation.VillageCouncil;
 
 public enum MemberChoice {
-    POPULATION, WEALTH, COMBATCAPABILITY
+    POPULATION, WEALTH, COMBAT_CAPABILITY
 }

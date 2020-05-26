@@ -10,13 +10,14 @@ import java.util.List;
 
 public class Simulation {
 
-    private final int MAXTIME = 300;
-    public Village village;
-    public VillageCouncil villageCouncil;
-    public int time = 0;
-    RandomEventGenerator randomEventGenerator;
-    IInput input;
-    IOutput output;
+    private final static int MAX_TIME = 300;
+    private final static double EVENT_PER_TIMEUNIT = 0.1;
+    private Village village;
+    private VillageCouncil villageCouncil;
+    private int time = 0;
+    private final RandomEventGenerator randomEventGenerator;
+    private final IInput input;
+    private final IOutput output;
 
     /**
      * @param input  input object
@@ -47,9 +48,9 @@ public class Simulation {
     public void nextDay() {
         time++;
         output.write("Dzien: " + time);
-        if (village.isOK() && time <= MAXTIME) {
-            List<Event> events = randomEventGenerator.getEvents(time / 10 + 1, getDifficulty());
-            events.addAll(villageCouncil.getChoices(time / 10 + 1, getDifficulty()));
+        if (village.isOK() && time <= MAX_TIME) {
+            List<Event> events = randomEventGenerator.getEvents((int)(time * EVENT_PER_TIMEUNIT) + 1, getDifficulty());
+            events.addAll(villageCouncil.getChoices((int)(time * EVENT_PER_TIMEUNIT) + 1, getDifficulty()));
             executeEvents(events);
             output.write(getDailySummary());
             nextDay();

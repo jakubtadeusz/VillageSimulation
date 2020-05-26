@@ -13,7 +13,7 @@ class EventTest {
     @BeforeEach
    void createEvent() {
         this.village = new Village(1000, 10000, 600);
-        this.event = new Event("Test event", 10);
+        this.event = new Event("Test event");
     }
 
     @Test
