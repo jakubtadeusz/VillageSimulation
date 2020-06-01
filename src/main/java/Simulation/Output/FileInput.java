@@ -6,12 +6,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class FileInput implements IInput{
+public class FileInput implements IInput {
     Scanner scanner;
     long population;
     long wealth;
     long combatCapability;
     List<String> randomEventNames = new ArrayList<>();
+
     public FileInput(String file) {
 
         try {
@@ -19,7 +20,7 @@ public class FileInput implements IInput{
             population = scanner.nextLong();
             wealth = scanner.nextLong();
             combatCapability = scanner.nextLong();
-            while (scanner.hasNext()){
+            while (scanner.hasNext()) {
                 randomEventNames.add(scanner.nextLine());
             }
             scanner.close();

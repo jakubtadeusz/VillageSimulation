@@ -36,7 +36,7 @@ public class Village {
     }
 
     public Boolean isOK() {
-        return getPopulation()>0 && getWealth() > 0;
+        return getPopulation() > 0 && getWealth() > 0;
     }
 
     @Override

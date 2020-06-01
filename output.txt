@@ -1,0 +1,9 @@
+
+Symulacja sie zaczyna
+Dzien: 1
+Nauka        zmiana populacji:-2 zmiana bogactwa: -20 zmiana umiejetnosci walki: 0
+Combat capability        zmiana populacji:0 zmiana bogactwa: 0 zmiana umiejetnosci walki: 991
+Stan wioski na dzien 1:
+   Populacja: 98   Bogactwo: -10   Zdolnosc bojowa: 1091
+Dzien: 2
+Symulacja zakonczona.

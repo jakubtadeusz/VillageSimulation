@@ -3,7 +3,7 @@ package Simulation.Output;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DefaultInput implements IInput{
+public class DefaultInput implements IInput {
     @Override
     public long loadPopulation() {
         return 100;

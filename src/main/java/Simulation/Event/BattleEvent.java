@@ -18,10 +18,6 @@ public class BattleEvent extends Event {
         this.difficulty = difficulty;
     }
 
-    private int getNewOpponent(int difficulty) {
-        return difficulty * random.nextInt(OPPONENT_SIZE_MODIFIER);
-    }
-
     public void runBattle(Village village) {
         int opponent = getNewOpponent(difficulty);
         if (opponent < village.getCombatCapability()) {
@@ -39,5 +35,9 @@ public class BattleEvent extends Event {
     public void executeOnVillage(Village village) {
         this.runBattle(village);
         super.executeOnVillage(village);
+    }
+
+    private int getNewOpponent(int difficulty) {
+        return difficulty * random.nextInt(OPPONENT_SIZE_MODIFIER);
     }
 }

@@ -17,9 +17,9 @@ public class RandomEventGenerator {
     }
 
     public Event getRandomEvent(int difficulty) {
-        if(random.nextInt(DIFFICULTY_CAP) > (DIFFICULTY_CAP - BATTLE_CHANCE)){
+        if (random.nextInt(DIFFICULTY_CAP) > (DIFFICULTY_CAP - BATTLE_CHANCE)) {
             return new BattleEvent(difficulty);
-        }else {
+        } else {
 
             int rand = random.nextInt(DIFFICULTY_CAP);
             int change = random.nextInt(difficulty * CHANGE_MULTIPLIER);

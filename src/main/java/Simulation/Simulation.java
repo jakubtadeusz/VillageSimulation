@@ -2,7 +2,6 @@ package Simulation;
 
 import Simulation.Event.Event;
 import Simulation.Event.RandomEventGenerator;
-import Simulation.Output.IInput;
 import Simulation.Output.IOutput;
 import Simulation.VillageCouncil.VillageCouncil;
 
@@ -12,21 +11,17 @@ public class Simulation {
 
     private final static int MAX_TIME = 300;
     private final static double EVENT_PER_TIMEUNIT = 0.1;
-    private Village village;
+    private final Village village;
     private VillageCouncil villageCouncil;
     private int time = 0;
     private final RandomEventGenerator randomEventGenerator;
-    private final IInput input;
     private final IOutput output;
 
-    /**
-     * @param input  input object
-     * @param output output object
-     */
-    public Simulation(IInput input, IOutput output) {
-        this.input = input;
+
+    public Simulation(Village startingVillage, RandomEventGenerator randomEventGenerator, IOutput output) {
+        this.village = startingVillage;
         this.output = output;
-        randomEventGenerator = new RandomEventGenerator(input.getRandomEventNames());
+        this.randomEventGenerator = randomEventGenerator;
     }
 
     /**
@@ -34,11 +29,8 @@ public class Simulation {
      */
     public void start() {
         output.write("Symulacja sie zaczyna");
-        long pop = input.loadPopulation();
-        long wel = input.loadWealth();
-        long com = input.loadCombatCapability();
-        village = new Village(pop, wel, com);
-        villageCouncil = new VillageCouncil((int) (pop));
+
+        villageCouncil = new VillageCouncil((int) village.getPopulation());
         nextDay();
     }
 

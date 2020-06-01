@@ -19,7 +19,7 @@ public class VillageCouncil {
 
     public VillageCouncil(long villagePopulation) {
         long memberAmount = this.calculateCouncilSize(villagePopulation);
-        createCouncilMembers(memberAmount);
+        generateCouncilMembers(memberAmount);
     }
 
     public List<Event> getChoices(int amount, int difficulty) {
@@ -37,9 +37,6 @@ public class VillageCouncil {
         return eventList;
     }
 
-    private String getSelectedEventName(MemberChoice choice){
-        return choice == MemberChoice.POPULATION ? "Population" : choice == MemberChoice.COMBAT_CAPABILITY ? "Combat capability" : "Wealth";
-    }
 
     public int councilSize() {
         return this.getCouncilMemberArrayList().size();
@@ -59,6 +56,10 @@ public class VillageCouncil {
         } else return MemberChoice.WEALTH;
     }
 
+    private String getSelectedEventName(MemberChoice choice) {
+        return choice == MemberChoice.POPULATION ? "Population" : choice == MemberChoice.COMBAT_CAPABILITY ? "Combat capability" : "Wealth";
+    }
+
     private ArrayList<CouncilMember> getCouncilMemberArrayList() {
         return this.councilMemberArrayList;
     }
@@ -67,7 +68,7 @@ public class VillageCouncil {
         councilMemberArrayList.add(councilMember);
     }
 
-    private void createCouncilMembers(long memberAmount) {
+    private void generateCouncilMembers(long memberAmount) {
         for (int i = 0; i < memberAmount; i++) {
             addNewCouncilMember(new CouncilMember());
         }
