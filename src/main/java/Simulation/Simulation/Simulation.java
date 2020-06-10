@@ -49,8 +49,8 @@ public class Simulation {
         time++;
         output.write("Dzien: " + time);
         if (village.isOK() && time <= MAX_TIME) {
-            List<Event> events = randomEventGenerator.getEvents((int) (time * EVENT_PER_TIMEUNIT) + 1, getDifficulty());
-            events.addAll(villageCouncil.getChoices((int) (time * EVENT_PER_TIMEUNIT) + 1, getDifficulty()));
+            List<Event> events = villageCouncil.getChoices((int) (time * EVENT_PER_TIMEUNIT) + 1, getDifficulty());
+            events.addAll(randomEventGenerator.getEvents((int) (time * EVENT_PER_TIMEUNIT) + 1, getDifficulty()));
             executeEvents(events);
             output.write(getDailySummary());
             nextDay();
