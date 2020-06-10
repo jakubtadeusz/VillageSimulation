@@ -3,6 +3,9 @@ package Simulation.Output;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * default simulation input, uses hardcoded village parameters
+ */
 public class DefaultInput implements IInput {
     @Override
     public long loadPopulation() {

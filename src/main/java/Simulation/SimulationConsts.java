@@ -1,5 +1,8 @@
 package Simulation;
 
+/**
+ * Class used to store simulation consts
+ */
 public abstract class SimulationConsts {
     public static final int DIFFICULTY_CAP = 100;
     public static final int CHANGE_MULTIPLIER = 10;

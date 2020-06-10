@@ -4,9 +4,15 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/**
+ * Use to save simulation output in file
+ */
 public class FileOutput implements IOutput {
     FileWriter fileWriter;
 
+    /**
+     * @param filePath path of file used as output
+     */
     public FileOutput(String filePath) {
         File file = new File(filePath);
         try {

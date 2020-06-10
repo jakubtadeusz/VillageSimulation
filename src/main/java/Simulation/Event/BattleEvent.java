@@ -6,18 +6,28 @@ import java.util.Random;
 
 import static Simulation.SimulationConsts.DIFFICULTY_CAP;
 
+/**
+ * Battle event
+ */
 public class BattleEvent extends Event {
     private static final int NEGATIVE_PUNISHMENT = 10;
     private static final int OPPONENT_SIZE_MODIFIER = 10;
     private final int difficulty;
     private final Random random;
 
+    /**
+     * @param difficulty battle difficulty
+     */
     public BattleEvent(int difficulty) {
         super("Battle");
         random = new Random();
         this.difficulty = difficulty;
     }
 
+    /**
+     * @param village village object on which the battle will be proceeded
+     * use to calculate battle result and set event changes
+     */
     public void runBattle(Village village) {
         int opponent = getNewOpponent(difficulty);
         if (opponent < village.getCombatCapability()) {

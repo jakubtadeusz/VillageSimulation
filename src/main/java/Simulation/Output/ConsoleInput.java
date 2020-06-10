@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * Use to load starting village parameters from console
+ */
 public class ConsoleInput implements IInput {
 
     Scanner scan = new Scanner(System.in);

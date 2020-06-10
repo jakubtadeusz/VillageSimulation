@@ -12,16 +12,28 @@ import java.util.Random;
 import static Simulation.SimulationConsts.BATTLE_CHANCE;
 import static Simulation.SimulationConsts.DIFFICULTY_CAP;
 
+/**
+ * allow to generate events based on village council choices
+ */
 public class VillageCouncil {
     private final static int MAX_COUNCIL_SIZE = 300;
     private final static double MEMBERS_PER_SETTLER = 0.01;
     private final ArrayList<CouncilMember> councilMemberArrayList = new ArrayList<>();
 
+    /**
+     * @param villagePopulation population of village that will use this council
+     */
     public VillageCouncil(long villagePopulation) {
         long memberAmount = this.calculateCouncilSize(villagePopulation);
         generateCouncilMembers(memberAmount);
     }
 
+    /**
+     * @param amount choices amount
+     * @param difficulty event difficulty
+     * @return list of event selected by council
+     * use to get event that village council chooses
+     */
     public List<Event> getChoices(int amount, int difficulty) {
         List<Event> eventList = new ArrayList<>();
         MemberChoice choice;
@@ -38,14 +50,26 @@ public class VillageCouncil {
     }
 
 
+    /**
+     * @return size of council
+     */
     public int councilSize() {
         return this.getCouncilMemberArrayList().size();
     }
 
+    /**
+     * @return maximum council size
+     */
     public int getMaxCouncilSize() {
         return MAX_COUNCIL_SIZE;
     }
 
+    /**
+     * @param population amount of votes for population
+     * @param wealth amount of votes for wealth
+     * @param combat amount of votes for combat capability
+     * @return choice that most people voted for
+     */
     public static MemberChoice getChoiceFromVotes(int population, int wealth, int combat) {
         if (population > wealth) {
             if (combat > population) {

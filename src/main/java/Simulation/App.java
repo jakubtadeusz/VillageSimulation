@@ -3,6 +3,9 @@ package Simulation;
 import Simulation.Output.IInput;
 import Simulation.Output.IOutput;
 
+/**
+ * Main class
+ */
 public class App {
 
     public static void main(String[] args) {

@@ -18,7 +18,6 @@ class SelectedEventTest {
     @Test
     void isPopulationOptionWorking(){
         SelectedEvent selectedEvent = new SelectedEvent("Test", 50, MemberChoice.POPULATION);
-        selectedEvent.setSelectedChanges();
         selectedEvent.executeOnVillage(village);
         assertNotEquals(village.getPopulation(), 0);
     }
@@ -26,7 +25,6 @@ class SelectedEventTest {
     @Test
     void isWealthOptionWorking(){
         SelectedEvent selectedEvent = new SelectedEvent("Test", 50, MemberChoice.WEALTH);
-        selectedEvent.setSelectedChanges();
         selectedEvent.executeOnVillage(village);
         assertNotEquals(village.getWealth(), 0);
     }
@@ -34,7 +32,6 @@ class SelectedEventTest {
     @Test
     void isCombatCapabilityOptionWorking(){
         SelectedEvent selectedEvent = new SelectedEvent("Test", 50, MemberChoice.COMBAT_CAPABILITY);
-        selectedEvent.setSelectedChanges();
         selectedEvent.executeOnVillage(village);
         assertNotEquals(village.getCombatCapability(), 0);
     }

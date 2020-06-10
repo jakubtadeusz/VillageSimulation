@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * Use to load starting simulation parameters from file
+ */
 public class FileInput implements IInput {
     Scanner scanner;
     long population;
@@ -13,6 +16,9 @@ public class FileInput implements IInput {
     long combatCapability;
     List<String> randomEventNames = new ArrayList<>();
 
+    /**
+     * @param file path of file used as input
+     */
     public FileInput(String file) {
 
         try {

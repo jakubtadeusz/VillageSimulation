@@ -7,6 +7,9 @@ import Simulation.VillageCouncil.VillageCouncil;
 
 import java.util.List;
 
+/**
+ * Simulation class
+ */
 public class Simulation {
 
     private final static int MAX_TIME = 300;
@@ -18,6 +21,11 @@ public class Simulation {
     private final IOutput output;
 
 
+    /**
+     * @param startingVillage Village object that simulation will be based on
+     * @param randomEventGenerator used to generate random events
+     * @param output object used to write output to user
+     */
     public Simulation(Village startingVillage, RandomEventGenerator randomEventGenerator, IOutput output) {
         this.village = startingVillage;
         this.output = output;
@@ -77,7 +85,7 @@ public class Simulation {
     }
 
     /**
-     * @return difficultu
+     * @return difficulty
      */
     private int getDifficulty() {
         return this.time;

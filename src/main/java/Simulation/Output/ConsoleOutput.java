@@ -1,5 +1,8 @@
 package Simulation.Output;
 
+/**
+ * Use to write simulation output to console
+ */
 public class ConsoleOutput implements IOutput {
 
     @Override
