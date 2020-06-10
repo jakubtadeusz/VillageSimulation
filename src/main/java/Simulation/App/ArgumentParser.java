@@ -1,9 +1,16 @@
-package Simulation;
+package Simulation.App;
 
+import Simulation.Input.ConsoleInput;
+import Simulation.Input.DefaultInput;
+import Simulation.Input.FileInput;
+import Simulation.Input.IInput;
 import Simulation.Output.*;
 
 /**
- * use to parse argument from String array
+ * Use to parse argument from String array and generate appropriate IOutput and IInput classes <br>
+ * With first two arguments you can choose IInput and IOutput implementation <br>
+ * "console" - Use console stream to load params or write output <br>
+ * "file" - Use file to load params or write output, can add 3rd or 4th arguments to choose file path. Default ones are saved in SimulatioConsts class
  */
 public abstract class ArgumentParser {
 

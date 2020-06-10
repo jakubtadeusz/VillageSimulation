@@ -1,4 +1,4 @@
-package Simulation;
+package Simulation.Simulation;
 
 /**
  * Class that store information about Village parameters
@@ -9,8 +9,8 @@ public class Village {
     private long combatCapability;
 
     /**
-     * @param population population size
-     * @param wealth wealth amount
+     * @param population       population size
+     * @param wealth           wealth amount
      * @param combatCapability combat capability, used to calculate battle results
      */
     public Village(long population, long wealth, long combatCapability) {

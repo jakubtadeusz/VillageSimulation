@@ -1,4 +1,4 @@
-package Simulation.Output;
+package Simulation.Input;
 
 import java.util.List;
 

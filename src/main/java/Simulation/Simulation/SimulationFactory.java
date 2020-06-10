@@ -1,11 +1,11 @@
-package Simulation;
+package Simulation.Simulation;
 
 import Simulation.Event.RandomEventGenerator;
-import Simulation.Output.IInput;
+import Simulation.Input.IInput;
 import Simulation.Output.IOutput;
 
 /**
- * Use to generate Simulation object
+ * Use to generate correct Simulation object based on IInput starting data and IOutput object
  */
 public class SimulationFactory {
 
@@ -13,7 +13,7 @@ public class SimulationFactory {
     private final IOutput output;
 
     /**
-     * @param input input object
+     * @param input  input object
      * @param output output object
      */
     public SimulationFactory(IInput input, IOutput output) {

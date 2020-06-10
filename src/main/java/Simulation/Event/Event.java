@@ -1,9 +1,9 @@
 package Simulation.Event;
 
-import Simulation.Village;
+import Simulation.Simulation.Village;
 
 /**
- * default event class, has only name and village changes
+ * Event class, has name and village changes. Can be used to execute various changes on Village object
  */
 public class Event {
     private final String eventName;

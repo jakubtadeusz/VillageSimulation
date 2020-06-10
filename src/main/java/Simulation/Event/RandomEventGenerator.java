@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static Simulation.SimulationConsts.*;
+import static Simulation.App.SimulationConsts.*;
 
 /**
  * Class used to generate random events

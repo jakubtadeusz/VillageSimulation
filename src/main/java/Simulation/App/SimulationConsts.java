@@ -1,4 +1,4 @@
-package Simulation;
+package Simulation.App;
 
 /**
  * Class used to store simulation consts

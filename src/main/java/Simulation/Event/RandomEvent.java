@@ -2,8 +2,8 @@ package Simulation.Event;
 
 import java.util.Random;
 
-import static Simulation.SimulationConsts.CHANGE_MULTIPLIER;
-import static Simulation.SimulationConsts.DIFFICULTY_CAP;
+import static Simulation.App.SimulationConsts.CHANGE_MULTIPLIER;
+import static Simulation.App.SimulationConsts.DIFFICULTY_CAP;
 
 /**
  * Event with randomized changes

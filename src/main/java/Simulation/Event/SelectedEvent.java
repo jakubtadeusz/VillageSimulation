@@ -4,8 +4,8 @@ import Simulation.VillageCouncil.MemberChoice;
 
 import java.util.Random;
 
-import static Simulation.SimulationConsts.CHANGE_MULTIPLIER;
-import static Simulation.SimulationConsts.DIFFICULTY_CAP;
+import static Simulation.App.SimulationConsts.CHANGE_MULTIPLIER;
+import static Simulation.App.SimulationConsts.DIFFICULTY_CAP;
 
 /**
  * Event object that allow to choose parameter that will be changed

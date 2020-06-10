@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static Simulation.SimulationConsts.BATTLE_CHANCE;
-import static Simulation.SimulationConsts.DIFFICULTY_CAP;
+import static Simulation.App.SimulationConsts.BATTLE_CHANCE;
+import static Simulation.App.SimulationConsts.DIFFICULTY_CAP;
 
 /**
  * allow to generate events based on village council choices

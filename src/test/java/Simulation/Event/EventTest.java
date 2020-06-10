@@ -1,6 +1,6 @@
 package Simulation.Event;
 
-import Simulation.Village;
+import Simulation.Simulation.Village;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

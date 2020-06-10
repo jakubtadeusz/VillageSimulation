@@ -1,6 +1,6 @@
 package Simulation.Event;
 
-import Simulation.Village;
+import Simulation.Simulation.Village;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertNotEquals;

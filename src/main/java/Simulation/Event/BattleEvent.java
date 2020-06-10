@@ -1,13 +1,13 @@
 package Simulation.Event;
 
-import Simulation.Village;
+import Simulation.Simulation.Village;
 
 import java.util.Random;
 
-import static Simulation.SimulationConsts.DIFFICULTY_CAP;
+import static Simulation.App.SimulationConsts.DIFFICULTY_CAP;
 
 /**
- * Battle event
+ * Battle event, used to generate event based on battle result
  */
 public class BattleEvent extends Event {
     private static final int NEGATIVE_PUNISHMENT = 10;
@@ -47,6 +47,10 @@ public class BattleEvent extends Event {
         super.executeOnVillage(village);
     }
 
+    /**
+     * @param difficulty battle difficulty
+     * @return opponent combat capability, based on difficulty
+     */
     private int getNewOpponent(int difficulty) {
         return difficulty * random.nextInt(OPPONENT_SIZE_MODIFIER);
     }

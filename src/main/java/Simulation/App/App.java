@@ -1,7 +1,9 @@
-package Simulation;
+package Simulation.App;
 
-import Simulation.Output.IInput;
+import Simulation.Input.IInput;
 import Simulation.Output.IOutput;
+import Simulation.Simulation.Simulation;
+import Simulation.Simulation.SimulationFactory;
 
 /**
  * Main class

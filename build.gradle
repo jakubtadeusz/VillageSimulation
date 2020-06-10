@@ -42,7 +42,7 @@ test {
 }
 
 // Define the main class for the application
-mainClassName = 'Simulation.App'
+mainClassName = 'Simulation.App.App'
 
 javadoc {
     source = sourceSets.main.allJava
