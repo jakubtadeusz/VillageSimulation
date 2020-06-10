@@ -8,4 +8,4 @@ Gdzie ścieżki plików są opcjonalne i w przypadku ich braku zostaną wybrane 
 Do wyboru dostępne są:<br>
 ###### "console" - wejscie/wyjscie w konsoli <br>
 ###### "file" - wejscie/wyjscie do pliku <br>
-###### "default" - dla wyjscia przypisuje dane domyslne, dla wyjscia wypisuje do konsoli
+###### "default" - dla wejscia przypisuje dane domyslne, dla wyjscia wypisuje do konsoli
